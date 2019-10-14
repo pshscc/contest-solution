@@ -3,12 +3,12 @@ import java.io.*;
 
 /* 
 Another way to solve this is to simply calculate every possible
-sum of between N and M, and count how many times it occurs.
+sum between N and M, and count how many times it occurs.
 Because you calculate every possible sum, the sum with the highest
 probabilty is the one that occurs the most.
 In this solution, I keep track of the max frequency while
 counting the frequency of each sum. Alternatively, you could
-create a loop after counting the frequence of each sum to find
+create a loop after counting the frequency of each sum to find
 the max frequency.
  */
 public class Solution2 {
