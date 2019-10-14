@@ -1,6 +1,16 @@
 import java.util.*;
 import java.io.*;
 
+/* 
+Another way to solve this is to simply calculate every possible
+sum of between N and M, and count how many times it occurs.
+Because you calculate every possible sum, the sum with the highest
+probabilty is the one that occurs the most.
+In this solution, I keep track of the max frequency while
+counting the frequency of each sum. Alternatively, you could
+create a loop after counting the frequence of each sum to find
+the max frequency.
+ */
 public class Solution2 {
     public static void main(String[] args) throws Exception {
         Scanner in = new Scanner(System.in);
@@ -9,6 +19,7 @@ public class Solution2 {
             int n = in.nextInt();
             int m = in.nextInt();
             int max = -1;
+            // use tree maps to have the sums (the key of the map) in sorted order
             Map<Integer, Integer> sumsCount = new TreeMap<>();
             for (int a = 1; a <= n; a++) {
                 for (int b = 1; b <= m; b++) {

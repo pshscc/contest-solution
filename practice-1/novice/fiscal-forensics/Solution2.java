@@ -1,6 +1,11 @@
 import java.util.*;
 import java.io.*;
 
+/* 
+This is follows the same idea of Solution1 but uses
+Scanner rather than split() when reading in the
+transactions.
+ */
 public class Solution2 {
     public static void main(String[] args) throws Exception {
         Scanner in = new Scanner(System.in);

@@ -1,6 +1,13 @@
 import java.util.*;
 import java.io.*;
 
+/*  
+This is similar to Solution1, but instead we create a method that
+performs the replacing of the diagraphs. We create an array with
+all the lowercase diagraphs and loop through it to get the 3
+other variations and replace them accordingly. I find this
+faster to type than Solution1
+*/
 public class Solution2 {
     public static void main(String[] args) throws Exception {
         Scanner in = new Scanner(System.in);

@@ -1,6 +1,13 @@
 import java.util.*;
 import java.io.*;
 
+/* 
+You need to look at each line and get the transactions. The 
+transactions can be stored as strings so that you can look
+at the first digit easily by using charAt(0) or substring(0, 1).
+Count how many start with 1s, 9s, and the total transactions
+to calculate the percentages.
+ */
 public class Solution1 {
     public static void main(String[] args) throws Exception {
         Scanner in = new Scanner(System.in);

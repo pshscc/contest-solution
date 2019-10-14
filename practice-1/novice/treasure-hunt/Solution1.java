@@ -1,6 +1,12 @@
 import java.util.*;
 import java.io.*;
 
+/* 
+Create a for loop to loop the # of rows and a nested for loop
+to loop the # of columns. Read each line and then loop through
+to find 'X' and '*'. Store their locations (row, col) in variables
+and evaluate it at the end.
+ */
 public class Solution1 {
     public static void main(String[] args) throws Exception {
         Scanner in = new Scanner(System.in);

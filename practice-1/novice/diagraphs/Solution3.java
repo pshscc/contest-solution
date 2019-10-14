@@ -1,6 +1,12 @@
 import java.util.*;
 import java.io.*;
 
+/*  
+Another way to solve this is to use Regular Expressions aka regex
+(CS3 students have already learned this). You could simiplify
+the regex that I used, but sometimes the time it takes to simplify
+is longer than just hard coding it which makes it not worth doing.
+*/
 public class Solution3 {
     public static void main(String[] args) throws Exception {
         Scanner in = new Scanner(System.in);

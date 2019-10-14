@@ -1,6 +1,17 @@
 import java.util.*;
 import java.io.*;
 
+/* 
+For this solution, you can create a custom Comparable class that compares
+the first two letters and the order in which they came in (this solution
+represents that with the variable "index") if the first two letters are
+the same. I create a Person array and keep track of their order as I read
+in the names. Afterwards, use Arrays.sort() to sort it, and loop through the
+array and print out their names.
+Alternatively, you could use a TreeSet instead of an array since their
+are no duplicate names, and the TreeSet will naturally sort it. This way
+you could just loop through the TreeSet and print out the names.
+ */
 public class Solution1 {
     public static void main(String[] args) throws Exception {
         Scanner in = new Scanner(System.in);

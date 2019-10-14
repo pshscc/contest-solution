@@ -1,6 +1,11 @@
 import java.util.*;
 import java.io.*;
 
+/*
+The name of the world is not important so after reading each (x, y, z)
+coordinate, you can call the scanner methods next() or nextLine() to skip
+the world's name.
+ */
 public class Solution1 {
     public static void main(String[] args) throws Exception {
         Scanner in = new Scanner(System.in);

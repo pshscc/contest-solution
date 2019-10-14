@@ -1,6 +1,11 @@
 import java.util.*;
 import java.io.*;
 
+/* 
+You can hard code each variation of (sc, ng, ck, ph, sh, th, wh, qu)
+and replace them with underscores. However, the time it takes to type this
+makes it not the most favorable option.
+ */
 public class Solution1 {
     public static void main(String[] args) throws Exception {
         Scanner in = new Scanner(System.in);
