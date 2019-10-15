@@ -1,34 +1,36 @@
 import java.util.*;
 import java.io.*;
 
-/*  
-This is similar to Solution1, but instead we create a method that
-performs the replacing of the diagraphs. We create an array with
-all the lowercase diagraphs and loop through it to get the 3
-other variations and replace them accordingly. I find this
-faster to type than Solution1
-*/
+/* 
+This solution reads in the line from the input and creates an all lowercase
+variant so we only need to call replace() 8 times with the lowercase diagraphs.
+In addition, this solution also stores the lowercase diagraphs in an array so
+we can use a for each loop to replace so we dont need to manually type 
+replace() 8 times.
+Afterwards, we want to essentially combine the original and the modified
+lowercase strings. Because the lowercase string replaced some characters
+to underscores, we can say that if we come across an underscore in the
+lowercase string, we can add it to the combined string; otherwise add 
+the characters from the original string.
+ */
 public class Solution2 {
     public static void main(String[] args) throws Exception {
         Scanner in = new Scanner(System.in);
+        String[] diagraphs = { "sc", "ng", "ck", "ph", "sh", "th", "wh", "qu" };
         int t = in.nextInt();
         in.nextLine();
         for (int tc = 0; tc < t; tc++) {
             String line = in.nextLine();
-            String fixed = modify(line);
+            String lowercase = line.toLowerCase();
+            for (String diagraph : diagraphs)
+                lowercase = lowercase.replace(diagraph, "__");
+            String fixed = "";
+            for (int i = 0; i < lowercase.length(); i++)
+                if (lowercase.charAt(i) == '_')
+                    fixed += '_';
+                else
+                    fixed += line.charAt(i);
             System.out.println(fixed);
         }
-    }
-
-    static String modify(String line) {
-        String r = "__";
-        String[] diagraphs = { "sc", "ng", "ck", "ph", "sh", "th", "wh", "qu" };
-        for (String diagraph : diagraphs) {
-            String uppercase = diagraph.toUpperCase();
-            String bigsmall = uppercase.substring(0, 1) + diagraph.substring(1);
-            String smallbig = diagraph.substring(0, 1) + uppercase.substring(1);
-            line = line.replace(diagraph, r).replace(uppercase, r).replace(bigsmall, r).replace(smallbig, r);
-        }
-        return line;
     }
 }
