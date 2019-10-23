@@ -1,0 +1,1 @@
+These are possible solutions for Frisco First Bytes 2019.
