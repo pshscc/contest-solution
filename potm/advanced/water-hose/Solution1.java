@@ -23,7 +23,7 @@ public class Solution1 {
         for (int x = 1; x < volume.length; x++)
             volume[x] = volume[x - 1] + rate[x - 1];
         int q = sc.nextInt();
-        StringBuilder out = new StringBuilder((int) 1e7);
+        StringBuilder out = new StringBuilder();
         while (q-- > 0)
             out.append(volume[sc.nextInt()]).append('\n');
         System.out.print(out);
