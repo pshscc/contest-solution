@@ -6,7 +6,6 @@ public class Solution1 {
     public static void main(String[] args) throws Exception {
         Scanner in = new Scanner(new File("reverse.dat"));
         String[] words;
-        int i, vowel;
         String vowelList = "aeiouAEIOU";
         while (in.hasNextLine()) {
             words = in.nextLine().split(" ");
