@@ -3,7 +3,7 @@ import java.util.*;
 
 public class Solution1 {
     public static void main(String[] args) throws Exception {
-        Scanner sc = new Scanner(new File("input.txt"));
+        Scanner sc = new Scanner(new File("rain_boots.data"));
         int[] dx = { 0, 0, -1, 1 }, dy = { 1, -1, 0, 0 };
         int MAX = 8;
         while (sc.hasNextLine()) {

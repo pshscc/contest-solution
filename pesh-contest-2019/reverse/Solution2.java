@@ -3,7 +3,7 @@ import java.util.*;
 
 public class Solution2 {
     public static void main(String[] args) throws Exception {
-        Scanner sc = new Scanner(System.in);
+        Scanner sc = new Scanner(new File("reverse.dat"));
         while (sc.hasNextLine()) {
             String[] line = sc.nextLine().split(" ");
             Stack<String> v = new Stack<>();

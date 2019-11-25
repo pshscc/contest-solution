@@ -3,7 +3,7 @@ import java.util.*;
 
 public class Solution1 {
     public static void main(String[] args) throws Exception {
-        Scanner sc = new Scanner(new File("input.txt"));
+        Scanner sc = new Scanner(new File("best_seller.data"));
         ArrayList<Item> items = new ArrayList<>();
         while (sc.hasNextLine()) {
             String[] line = sc.nextLine().split(",");
