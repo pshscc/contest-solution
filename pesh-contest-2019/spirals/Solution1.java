@@ -2,8 +2,8 @@ import java.io.*;
 import java.util.*;
 
 public class Solution1 {
-    public static void main(String[] args) {
-        Scanner in = new Scanner(System.in);
+    public static void main(String[] args) throws Exception {
+        Scanner in = new Scanner(new File("spirals.dat"));
         int n = in.nextInt();
         char[][] arr = new char[n][n];
         for(int i = 0; i<n; i++) {
