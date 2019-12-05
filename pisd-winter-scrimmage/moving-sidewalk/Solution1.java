@@ -51,15 +51,10 @@ public class Solution1 {
                         continue;
                     obs = map[r][c];
                     int s = cur.s + 1;
-                    if (obs == '^' || obs == 'V' || obs == '<' || obs == '>') {
-                        HashSet<A> arr = move(r, c);
-                        for (A a : arr) {
-                            r = a.r;
-                            c = a.c;
-                            if (s < times[r][c])
-                                q.offer(new A(r, c, times[r][c] = s));
-                        }
-                    } else {
+                    HashSet<A> moves = move(r, c);
+                    for (A a : moves) {
+                        r = a.r;
+                        c = a.c;
                         if (s < times[r][c])
                             q.offer(new A(r, c, times[r][c] = s));
                     }
@@ -74,8 +69,8 @@ public class Solution1 {
     }
 
     static HashSet<A> move(int r, int c) {
-        HashSet<A> arr = new HashSet<>();
-        arr.add(new A(r, c, 0));
+        HashSet<A> set = new HashSet<>();
+        set.add(new A(r, c, 0));
         for (;;) {
             char obs = map[r][c];
             int nr = r;
@@ -89,18 +84,18 @@ public class Solution1 {
             else if (obs == '>')
                 nc++;
             if (outbounds(nr, nc) || map[nr][nc] == 'W') {
-                arr.add(new A(r, c, 0));
+                set.add(new A(r, c, 0));
                 break;
             }
             if (map[nr][nc] == 'D' || map[nr][nc] == 'S' || map[nr][nc] == '-') {
-                arr.add(new A(nr, nc, 0));
+                set.add(new A(nr, nc, 0));
                 break;
             }
             r = nr;
             c = nc;
-            arr.add(new A(r, c, 0));
+            set.add(new A(r, c, 0));
         }
-        return arr;
+        return set;
     }
 
     static boolean outbounds(int r, int c) {
