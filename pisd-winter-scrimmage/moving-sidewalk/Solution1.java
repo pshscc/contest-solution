@@ -45,11 +45,11 @@ public class Solution1 {
                 for (int x = 0; x < 4; x++) {
                     int r = cur.r + dx[x];
                     int c = cur.c + dy[x];
-                    if (outbounds(r, c) || map[r][c] == 'W' || map[cur.r][cur.c] == '^' && dx[x] == 1
-                            || map[cur.r][cur.c] == 'V' && dx[x] == -1 || map[cur.r][cur.c] == '<' && dy[x] == 1
-                            || map[cur.r][cur.c] == '>' && dy[x] == -1)
+                    char obs = map[cur.r][cur.c];
+                    if (outbounds(r, c) || map[r][c] == 'W' || obs == '^' && dx[x] == 1 || obs == 'V' && dx[x] == -1
+                            || obs == '<' && dy[x] == 1 || obs == '>' && dy[x] == -1)
                         continue;
-                    char obs = map[r][c];
+                    obs = map[r][c];
                     int s = cur.s + 1;
                     if (obs == '^' || obs == 'V' || obs == '<' || obs == '>') {
                         HashSet<A> arr = move(r, c);
