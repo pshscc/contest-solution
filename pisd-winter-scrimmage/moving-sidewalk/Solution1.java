@@ -49,7 +49,6 @@ public class Solution1 {
                     if (outbounds(r, c) || map[r][c] == 'W' || obs == '^' && dx[x] == 1 || obs == 'V' && dx[x] == -1
                             || obs == '<' && dy[x] == 1 || obs == '>' && dy[x] == -1)
                         continue;
-                    obs = map[r][c];
                     int s = cur.s + 1;
                     HashSet<A> moves = move(r, c);
                     for (A a : moves) {
