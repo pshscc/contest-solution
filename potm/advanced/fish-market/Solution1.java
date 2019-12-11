@@ -34,7 +34,7 @@ public class Solution1 {
         int day = 0;
         long streak = 0;
         // start at x = 1 to avoid counting the first fish as the start of the streak.
-        // example test case: (correct answer is 4, but if you start at x = 1, it
+        // example test case: (correct answer is 4, but if you start at x = 0, it
         // outputs 7)
         // 2 1 1 1
         // 2 3
