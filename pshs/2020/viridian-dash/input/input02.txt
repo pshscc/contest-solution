@@ -1,0 +1,1416 @@
+20
+137 150
+TTTT TTTTTTTT  TTTT TTT T T TTTTTTTT TT TTTTTTTT T T  TT    TTTTTTTTTTTTTTT TT TT TTTTT TTTT T TT  T  T T T T T  TTTTTT TTTTTTTTTTTTT TT TTT TTTTT TTT
+  !T   ! >!  .      !. T  T  T  !          ...   !      ...      T  T!T     .T!        .   .    T!.         .<.  T . !T!TTT   !  ! T T  .. T T  ! > .T
+T..!        TT!  !  TT  ! .   ! .   T! ^ !TT.   v   T. !   T <      T!  .T.  .        .T .!  !!      T^.  .. T <.T  . !T     .!     .T..    . .!    !T
+TT.                  . !    .<  T . !T  . !  .   !!     .     !   >      T  !. !   !  !!  ! ^      <      . ! T.  T T  T   !  . !  TT     .  T  T    T
+T !  T       T..  ..T  ..  T! ! T    ..  !T.  T   > . !.    . !.  T    . .   .T   T  .   ^   T    T   !   <! .  !T.     !TT T T T.  <  !..T          T
+T    .!.T   . T ... T  !      ..!!!     !      <  T.!   .  !.TT. .!!  T   !!T   T  T      !  .  .   > T      ^TT     < .! .    .Tv.  !       T   . TT 
+T   T !vT.   T .        T  T . T   .!...!.. .    .  !  <.T. T  .     .  T.T. !      .. .     T   .T.  .< TT    ! . .      !    .T.  T  T T.        !TT
+   T     >. T  . !.! .. ! !> ..T^TT.T! T!   . T.! .T T.  !  T    .!      T !     ..T. . T ! T.       .!   TT       ! . T. !   !.  !       .     . T.. 
+T.v      T        .T           .  .   T.T   .T   ! >   T  T   !      !! .. T  .   . .!T   TT v    . ! !    !! . . ..     T.T.T      !.   !     ^.!  T 
+T!!.T! .   T.!T  !..   .TT  !..!T! T       T   T  T ..      .T!!v!!T.  !.TT .. T !.  .T ! . T!    .     T  !!  .!    T.   ! T T.! !!   !  T  ..      T
+TT  ..! . !.     !.  T T      T! T  T   !    .T     !Tv  T!.   T      Tv   .  ..  T T    .    > .      .T ..! . !  ! !    T  . T    T .T T  . T.     T
+TT     T           .T T ! !T >   T .!T  T T   .   !   !.! ! .T!       ! .! .! . T .  ! T T  ^ T.T.    v!!  ! TT ^T .  T   T!   !.!  .!  !.   . !  T..T
+   T!  .v  . .. TTT   T!   ..   T   .  T  .    T!   T!   .   T  .! !T      !!      T    ..!   !     .       TT . !T   !  !.   !!      T . . !    .   T
+ .  ..    . T T .!  .!..<  ! !  T. .! T     T!.. T!      .     .^! .   ! .. !    >!         T   !. .! T .TT .    T .  T!v!.   T.      . !T  . !.  ! ! 
+ TTv    .T  !    !    T T  !^ .!   T.!T.   .  !.T    ! T .  T   .T T  <  .T !! .T   ! T       T  T....T  T..   !.    !. .  .  ..   !T !!.     .    .TT
+T            .     .     T T  ! .T !T      !!      .  .  TT!!           !T !!  .   T T    T     .! v   TT !T ..     TT  !    T..         T!!   .     T
+TT!    !  >!       !   .! ! T !  . T          T    !!.      .  T!  .   v!     . T    T  .  !.  T  ^ T^  T  !  T  T  .T !TT    T T .T       .   !     T
+T .   .    .!!     T...    . T           TT   !>.!..>. . vT  ..         T. T .   .  T T!      .   . ..   T  T    T.TT. .>    !  !   >  T  T T. . !   T
+T... .   T     . TT. .  T   .!< v  .T T  TT .T. TT   .T T.   T        T .T     !.!!   .T      !T   TT.    .! . .T !! T >   T        T!!T !   .  .!    
+T!. <.T   <     .T  .T   .   T T ! !. T!. T  .T  T .T           . T ..  ! T!.   !!!. T! >  TT      !   T..T >!!           . . T.!  !. . !T! ..  !   TT
+   ! ! v         T  v        !   T..!    . !!.  !    !   .!     .     T  .T    T   T T . . T     ! T T . T   !   !!   !     .  T    !  T. .T ^. .    T
+  .v        .T!     .   !   T!T         !T   .T . ! !     !  T !   ! T  TT  .   T T   !T   .T!.T    .. . .   <!.T T  . T. T  T.TT!  . T.  !T. !T    T 
+TT! T!  T !  .    .  ! .T    ^T   T  .. .   ! !      .!!  T   .    . T  !  T   .! !T!     !T  .   T!!  ..T.   !       . T          .T.     ..  T T.TTT
+ T  T! ...      ! T  .        !.T. !   . T .   .   T   !.        T! !   T T    .   ! .   .  . !.  !  !  T!.  ..  !   TT  T.!      T! !   T!  !.   !  T
+T     . T. ! TTT    . !   .  .   TT !T  ..  T      T .! .TT   T.    !T. T      T.         T    TT T T   . ! .. T T .  .   T  v   !      . T!  < !    T
+T    .<. v!       . !! .T  ^T T    T!T T  T!   T.T  .T.T T  .!. !    !     .    T .!! T      ! T T    T!  .    T. . .. .     !  . !. !    !   .   v .T
+ . T  !! !    . .        .        !     T!  !  T   !  .  <  .> !T   T.  T TTTT !!T     T.^  ^!. T       T  !     . TTT     .!!.  ! T  v T.   .        
+T T!     T .   !^   TT T     !T!T T    !!     ..   !     T !    !T     T  T!!  . !T!T   T   .    T.  !  !!T   !  .  T T    ! . . T . T  !T    !     .T
+T      TT  !.  .!. T . . .  !T  !        .   T!T !T!T.   ! .!   !   T   !!   .  !.   !    !   T T    !  T  TT  .T!          !     .  T  . !!  !  T   T
+T. . !    !!   .. .  !  .. T.!. !T    .<.    T! T!.    . T!!TT    !     !T ^ !!.  !..!T  !     T  . ! T   .  . vT T!. ..TT T!   ...  .  ! !>      !!! 
+T     ..!   ...      T! !  T  .   .    !     .         T!.T     T ! . .      ! !TT! T.     !! TT..    !.  T.T   . T. !!    ! !T .      T ! !.     T   
+T     .T! T T !.    !      .. T     !  .   !  . T.  !!  .    !T. !   . T ! .  .  .   .  .!  .T.     .  T.    . T.!  T!. . ..!!.   TT  .T T  .  T  .  T
+T     .  >  !     T !TT.   T  !T  T ^   <. !   .   ..    !.  !  T!   ^  !      vT . .    .       T        TT      T! ..!! !    !.   ! <  .   .    TT T
+T.T !     !>!T.   . .   .. T    !    !.  .    T. !      T ! !T     .  ..v . T     T   .   !    !           !       T !.             . T   !!  TT    .T
+TT TT !!  .T!. .T ... .     ! T !. .  T!T   .  .    T!  .  !     .      .T!.< !.!T!!    T. T! .T   !  T T  ! ! ! .    TT   ! T!.    .   .          T T
+T!   !T.T !    T   !.        .  ... !  ..  ..    T  .    .    ..!    .   ..  T.         .!    . .        .!   ! .!...      T! T.  T T.  .v    .  !>  T
+TT   .   .T .!  .  ! T     T!.    T !..T  T  !   <! ..v. T       T     .  TT     .    .        . .T     T     T T . !  .        !.     !      !.  .T  
+T.T       !.     !>  !.    !   T    T.    ! !T  ! ..    !.  . .T    . !T  !T       TT .  !T.   .   !TT    !!    T..  !  .!     T.    !  T ^   T..   v 
+ .   T !T .        !      !  T  .!   .v ! !TT  .  .!! TT < .    .TT  ! T !  T  !   .!! !          .T T .T ! !    !!   !. T ! .  T Tv        .! T !  !T
+TT     ...          T   . T T  ! !TTT! !T !   .      . T .      T..  T  T   .     T  T! T !TT T T   TT   !.T..T     T .TTT     ! .!. !T      !T T !..T
+T !T    !            T! T   ...   T    vT .!.    .T!T .    TT .  .       .   ! T .!T!   T  !  .    !! v    !   T      !      !  T   .T. T T      TTT.T
+T !  ! T.  ^  . v .   .  !       T.!T   .. T         .T !vTT  !!.! !T  !T!  T   v .   !T  T  T ^!! !  !  . T   .     .   ! !.T   ! !   .  !   .! >  .T
+T .T. T! !T!T!    T T    T.!     .. T  T .   T    T   .!.. <. . T  T       T.  !  T  ! !  !! ! !T !! T!  .   T    T^ .   !  !   ! !  . .T..T  . T .!!T
+TT. . !.T ..! ..    T  !   T     .      T .  .TT    . . T.T..!TT    T     ! .  !   ..T  T! T!.    !     ! T. T.   !   ..!  !.T    !T     .!.    T    T
+T !.T  T . T.T!    .  <    !      . !< !  .     ^ .  T < .    T  TTT!! .T. !v  T !.  .   T!. TTT .!T   T !. T    v     !    T      !!     .v. .T     T
+T  ! .  T!! !      !! T.   .. T      T!T ! <    .   !     >    ! TT!  T       T     .  T T .. .T  .  ...T  TT. . .    TT T  .  T  .    .  T   T T TT  
+ TT   !         T  T . T.. .. T  ... !..T.  . T .! T !  .!  T !   T  T  TT.  vT !  T T .  . !!   !.    .    T ! .T  !   !!.      !T  T  T     ! .  .  
+T . T   T .!    !   ! ! ! .  . T!!  !T   T!T!T    . T  ..  T      .!T T!!  T . T  ! T   T  ! !.T.  .!.    .! !     T!!   .T.. !!^    T   T .     !. !T
+TT.T  v T   .T  T .  TTTT v   TT  T. T  !    T!  ! T !T T    T T TT!  ! T  .   .!.T.  . . T  .T .  TT      . .         .  !!!  !       T    . T T!   T
+T  ! T  T            .  .! T     T.         .      .. .  !      !T   T T  ! .     T  TT!    . !    !  T! T    .     T     .  . ... .    T T T   !  !! 
+T .     .   . v  .T !.   !    ..T      ! T!T      .T  .      !  . !  !  T . T !.! !.!.T T .  !.!  !TT T   ! T.T! T.    !  .T.T   ..!   .   !         T
+T.  .T .T      !!! ! T! !T.    .    !T !  T  . T .  !  .   T      ..   .      !!    !  T !  .T.T   T  T !T !  T !!. T.   !! !TT T  .  .  T v.! T.  ..T
+T. .    T . !      .   !TT!.! .T!  !T.T. T T  .    !^.    !     .  !    !T   T . !  .    T   !  .T     .^      T  !. ! T T! . .   !T       .T  . T > T
+   T.   > v .T   v   .  .T    .      .  !  ..   T.!.!. . T!   T    .  ...      !       .!.  !        . . TTTv     T.!    T!  ..T!T. T .! T T.   .!  .T
+T. !       .. .    . !! ^T!      .T   T     !  T   !    .  T T.! !! T  <  !  . !.  Tv.  ! TT    T .!!!. . !T         . !        !! !T   .  T      T.!T
+T. ..v        !T  . <..T      .   !    !        . ...   ! !.! !    !!     T      !   .!  T    ! T.  . T!T T T  T !T  .       !    .T  !!       T.  . T
+T         .!!          !. .>  .  T ..    .  !T    !T    !      !   T.! !        .        T T T   .T           T.!.!   >   ! !T  !.!  >. . T    !     T
+T  !  T   ^       !TT        T! .           !..TT!  !  <      !T     ! .   T . !. TT. T.< T  T..  TTT T  !.  !! T   T      !   .T.!  !   TT   T      T
+T T.   .   .! ^ .T T!   <    T              . !    .    . !         !.!T! T .   T.. !  TT ..  v !  .   ! .!T      !   .   !   ..T  . T.      ! T!    T
+T     T.  . !      T T    ..      !    .     ! !  < v  T   !    .T!      T     ..   .   T! ! T..    . ! .      .  T. T  ! TT     !TT TT!.   .  T.   TT
+TT . ! T .. T T  . . ..T! .  .!!.     ..T . <!T. T        .   T    .   ^ !  !T    .     T !   .      T !  ! .. T    T..  T     T . . ..  . TT !.  ...T
+      !T       . T T .  ..   .   . .     T T.T.   !  !T !! !. !T  !  .!.  !.  T T  T.T !TT    .T T.T.  ! !!. .   .    !   .     .     .. !   < ! ! . T
+ !    v T! .v    !T!       .! T . . T T ^Tv  T ! . !T <            T T. . T   . .T !!T        .  T!    .  !. ! !      T  T T  T     T    !T!  T !  ! T
+T!   !    .   .      .  !       .T!!      .T! ! ..    !!.!..  T.. .            TT T TT T.    !.T  .! !.   < T !T!TTT.. T T    !      T  !T.   .T!  . T
+T.!    !   ! T     .  .T  ! .  !.    !  . .  T   . <.    !T!.TT   T      !.  T..  T.!          !v.T!  T   T      T  .     .T.      .    ! !. .  ! T .T
+  T ^  T    !  ! T.  !  !.      . ! T T    . !  T!  !    . T..  < T #  ! TT      .    T  !....!  .  .   ..!    .  T  . T  .T   T  !   TT     .   !    
+T       T   TT!!   T TT  T T  T   T. .     ! T .!T  !   .T .!T    !    ! !     !  T TT     . !TT.  T.T T TT .. . . .   T !.      !     !T  !!T    !  T
+T!. T      ! !   !   . ^  ! ..!   T .  .     !  .! .   TT    T! TTT !! .  ! .  T^  .!. .  .  T  !     T !   T     T  !. T. .. ! ! !                .  
+T       .  TT !     .> . . .    T     !.    T.T.  ! ! !    .>.      . !   T!  T  !  .T     T   !.T !.!. T !    T T  ! !!.      . .          .    ! ! T
+T   T  ..T !T.  .!.TT    TT . !T  . .    !   T    T  ! !   ! T !  !  T  .... !.   ..T    .      !!     . T   .  .T  TT !       .  T .  T   T   .!.. !T
+ T    !   T. !..    < !      !T    T      .  .   !TTT   . !.TT.  !T  .  !    T . T !   T   .      . T!!  TT T   !  TT     .!     . .^.!  .!.   <  .  T
+T  T     .   T  T   T ! !     T   T  .T!   T  T . T T . .      !.  v  !  . ..   .            .   .    . TT  .T.!.  T        !   .!!   TTT .T ! ! !   T
+   .   ! v  T  .   .T    !!!  T !! T .   .!..     T T.T.    !          .T      .<   .   Tv   .! T    ..TT !   v   T       !  T        T!! ! ! .       
+ TT  .!  .. .        !.  . . .   T    TT !  ^    !           <!  T!.  ! T.  T    T  T T  !  T! .TT      T  T      !          .   T . .  ..    .  .T   
+ .           !T     TTT !! T! T.!!     T!    T  !  .   T !  T.   !    . !   !  .! !      ! .        !.!<  !.! .!^.. !        ..!  . !.   T    ..  .  T
+T .   T    T    TT. .    !T    !           !  T! .!  ! .     T  .! T!!      T  !       TT    T!Tv!vT. ! T   .            .  v T   Tv  .   T  T T   . T
+  TT     TT .^  T    . !! TT  T!! ! . .  !T!. .T T      T. . TT   T ! !   .     TT   ! .  .      ! T   . T.T T ^ .!T  T   T ! T.   ! !  ! T   T!    T 
+   ! T.  T  T  .T T TT .  T  !   .     !   T   .!.T !T.   !. T  .T !  . T .  TT. !  ^  T    !        !!       .     T     . T .T     T TT    T    T  T
+    !          T T.  .  ! !   !.  . T!      ..  !T    !  T!. . . !     T! T ^. ..  T ! T T T  ^.T T v . Tv T . !!!   . T T T . !     .  <  T   T!. T T
+T !     !T. . ..T  T!   .   T   T  T!..T      T    ! ! T  T  !    .T..T !    T!  Tv  T  T. !     . . ^T! .  <  .   T           >  T  !^.!    TT !    T
+T      ! T   !  T !     TT !.!    TT  ! .T !..T !.. !  ! .T. !    TT    TT! . T    !    !T T.. T  .!!!   !   !! T      .    T!T      !  !   T  .     T
+    T  !   TT  !  ! .!T!.  .   !  TT!!  T       T .     .  T T T!.  T     T.  !   ! .!  T ^ T .! T . !T... .  ! .     !T .T! T ! T ! ! ^      .!  T  T
+T  T  v   T  .TT  .          ! . .       .T       <  T        T    . .     < !    !. !.T   !!        T   T  !!     .  .T !.v.       !  . !   !       T
+ !.      .  !         . .              .     T!T    TT !..  !   .!    . .  T   T  . .T  . !!  .             .  ! !....T TT   ..   .  !.     T .!T !^TT
+T  .  .T.<      T !!!  .    !T  TT  !  .  .  .!..    !  T! T   T!.T! T  !  !.  T .!.T  TT ! v     !   T T T . .T        ! !  T  T T     .   TT .TTT  T
+T   ..  T!. !.      >.  .       T.        T  .   !T.     T T !T ! T  !! . . TT   T...T.  .^       !   .T !! TT  TT!! !. ! T . >     !T ! .      >   !T
+   . T !   ! . ! .. T !.    T     .!       T      T  ^   T . !.  TTT T  T        ! .  TTT     !T.   !T .T  ! !       !T! ..    T  TT      T   !.  !T!T
+T! !   T. T!. T  !        !. ! ! T        T . T  !       !.   ..T T  T  . ! . .  T     T !.    !T! ! T  . .   !!   T T. .! ! TT      . .   .    !     
+   <!. !T!    .! ..  . .   >   T   T   ^T !  T   ! .  !T T..  . !      .  !. TT .   .      .T     .T.  ! .  T    !  T T.     .  .TT   ! TT.    T.    T
+T.  TT T ! T  .       !  . !       !T  . ! T  ! T   . ! !       T  .!        . . T T     T!   T  ! ! . .T ..! .!..  <  !  T !T.  T     . T  .  . !T   
+T  T! ! T TT .    T!        .    T!    .  !T  !  .T ..   .    T TT .   .!   .     !! .  !   . T T.TT  T  . .. !   . ..TT  T. !  . T!T  .     .      !T
+T  T.T .       !!.T       !!.    .T!   .v  .T T .    T . !.    T T^!   . T    > .     T.   .    !        T!T T.   T T.    T    .   !.T .  T .    <  .T
+   !    T   TT  .T ! .   TT  .T  !  .. T  !   . ^   >  .       T       ..    . .   .  T  .! . !T    T  T.   ^T!            ! .  !T !  . ! . T !v.. >.T
+T  > .. T  .    T!.     T .   . ..  .  . T .  T   T  !  !  >        !  T     . ..   . .T . .  !     !   .! T   .    T   T  . . ! ..  ^! T!T.. . !  .!T
+ !  ! .! . v . .. v  !     T     . !T .  T          T      !    .  .T  ! .    .   T T!    ..  !.!   .   ..   ! .T     .  !!  .v!     !^..  T    T   .T
+ T   T.   !   ..!  T  T !     !      ! ! T.      TT !           !      !   .T .  ! T!    !  . ^ !    ..  T  .   T!  >.   !   .!    >..   !  .<. T  T  
+         !  T. !!.  .!  . T . !T  .!    T     .   T!T   ..!      T. T.! T.^T .    !   !         < !        !  T   T ! . . !^T    T..!   T       .   .T
+ .T  .    .      .  T.!  T.       .T..  . ! T      !       .!! . .        !.   .  .T    T!   . !    !.   .   .         T  .  ..   ..     T!       !T  
+T T T.   !.      !   .! T  T.   T. ! T   TT . T T.  !   <  .!TT  T.   T  !     ..   T T..T  TT  !         !! !TT! v  T     !    T  > .    .. .T !T T  
+T  .T T T    T .  !  .    !! .T!   !v!  T     >  T !  .T!   .!T     ..       !  !   T!TT T .!  .  . !     .   .T  !! .   !    v   T  .       .! T  T  
+T   !..  .!.T T.  .    .T ..  T.            .  ..   TTT!      .  T.v! T  !!    T  !    !   . .T .  !T    ! !    . TT  T  !      . !  T TTTTT. .    ! T
+T    .T  T   .   T ! !  ! .   . !!   <  !!T     . T   T.! T   .  .! ! T !.   . !.   T  .  ..   !.   !!  T T !  . .  .T     T  . !     v  !        T   
+T !.! .  !T^. !  !  .T           .  .   .T    T.  ..!  T. T T   ! T!  . ! T .! . .  ..T  T    !T     .       .     !!     v !. .T   T..   ..      T   
+TT !.!    ..  !  T .  .!.!!   T!! ! TTT   !.!   T .TT T ! .  !        !T!T    T   T ! T    T T   . ...   .! v .  T ^T^!T    ..   . T .   .T.! !T..T !T
+T  .   TT !.T .   .  ! T   .!T  !T  T   ! T.!    T !.   T ..    T T    T!.    .         !!!T! T    T      .   T       .!     T  !  .  .  ! T  .T  ..!T
+T. .  TT  T   !   !T      ! .   > .T   .   . . >        .   ^  !  !  . T!   T     .  T !  !  T.  T.   >             T .! .!T ..    T.  .  !! T T   T. 
+T.  T. T .. T.   T  .!     . T!   T  ! < ^   T   .  .!     !    T.  .  > !T. !     >    !  ! .  !  ...   T.!   ..!   > . .  T T   T T .!. !  T .  !  T
+T T   TT ^ ! T          ^ !   T!   !. ! ! T..  !  .!    T..T   !!  .! ...  .  !  . .T T.    ! .     T   .    .    .TT .  T!  ! ..!! T .   TT >   T   T
+T       . ! .  !     !. ! T T! ! .!!T . TT .  .T      !    !   .. .T.  .    .  ! . !!    .T   . .  !T  T!      !   T.!     .!   .  .T.TT    !..      T
+  .    .!     .      ...T     !   !       !    !  ..  !     >         .   T T    !!    T. >     T.  .TT T ! .!   !!  .  .T  ..!   !   T        .T... T
+TTT    <     .  T  ! > T . T  !  ! .  T .  T ! .   T  !       .    ! !    T      .!      !.!!. !  ..T!   T! .v^. TT.  T. !... .  .  !T   T .T  .    TT
+  .! T   T! >!.T  TTT  T  .T.   !!T   !    .   T T     T..    !...  T!T    T T!..     TT ! . T   ..  !T !.T!   .. T TT   v.  .    > vT   .   T  !   !T
+T  T. .!      .T!T..!  .  .. .! !T  ! ! T !. .    T   !.        TT! T! !!   T   T ! . >!! T  .       .        TT  .    T.!    ^          T   .  !  T  
+  <!    T. !  .!  .    T!  T  !!.     !     .. !!         .          .   T  T !T   !  ! . !TT T   .. ! .   !.      !     !TT .       !  vT  ! TT  ! T 
+T     T    ... !TT.  !T!!. T.  !.. !. !       .      >.     . .! !.    TT   T .T  !     . T!. T  .  !T!. T  <! T ! .  ..  .         .  !.     .  .   T
+T  T! ... .>! !   T!  .  T !  ..T     !>  .T! T  !.T .!!  T  T  !T   .!  !T  !   .  T..T .   T    ..  T  T .   .  ! !!  !. .!. T . .   ..  !!   !. ..T
+TT T   .      ..  .T     ! > T. ! .    T .       !T   T!   .  T   !T T  . .T !!!.      .    ! !.  . !.  T   .    < . TTT      T T.!. .  .. .!. .     T
+T. T <  T     T  . T   ! v . T .       .! . T     !v.T! ..        .T  T     T.   T  T. .     T    !    T T!. ! .  T..T  !!T        !    ! !. T^ ! .  T
+T   !..  .      !         T      !   .!  ..T .T     ! TT.    .. T !  T  T     !T   .>!  !T.   !T   !T    T TT.  T .    .  T     TT !   .!      . T .  
+T  .    >  ..   !!     !   .  !T!  .    !   !.!!       !. . !  T   .   ! . .  TT. T  !^ T  .   !   T    ! .T  T   ! .  .T .    !!  T  .   .    !T    T
+T!   !   T.    >.!  .  T T! ^! !!..T !T     !    !         T.     T  TT!.     .   T .      TT . T  TT.  T!.        .T!  T  ! .  !.     !.    T  .  ..T
+T!T.  !. !.T  .  T     .  T    .   !T!    .T!T  ! T  !       TT .            ...! !^.   ! . T T^. T  !  ! !   !  . .       !   T!  !T..   T ..  T !  T
+    !.   ^  !  .   TTT    .T.  .  ! TT T !   !  . T.. < .! T .T  !  T  T  .!   . T .     TT        v  !T  T.T TT  !    .  ! TT  v. T.       >    . ! T
+  T  T    !..    !T.     ! .T! v !   !  .!. T      .  .  ! . ! !    .T  !    T.        .    .  .     T    ! T !    !T !     !   .  T !    T !    T    
+  T     .   .!      .  .T  T.!  .    .   . T        T     !T    .      !   T.T .    T .       T.   T..T.T   T .   .!  T      TTT     .T.  T T T  !  .T
+T !. .     T.   T !  >   !     .TT    T    .  T  !..  .  .    T!.  !       . <. .  T      TT!!    !    !.. >     ! ..!TT T        !!.  !T  T .  .! T T
+TT . !T     !  !  !   !   ..   .T T !!   . !.   !! T  !.   .  ...  !! T   !      ^!. .   T. ! .. .  !T . T.    .  TTT    ! ..   .T TT   T . ! !    > T
+TT .T! T T .  .! !T  T  !   T ! .  > T  ! .        .   T.  . !   . <  .         T T   T!!           T. !  ! T .     T !  .  !< T.. !T  T.  !.     ! TT
+T T   ..!  .  T T     ! . T      .    ..  T !   !         T !! ! !  TT       T  T    . T T  TT      .    !T !T  ! ..!  .   .  T.    !    T T   .   T T
+T        !T^ . . >.   !  T  TT.     T T  !!  ^       T    .!.T!..   !        .   .T    !  !.           !         .   !.T!      .  ! >  . T^  T   TT  T
+T!   T    T!   !    T ! <   .   !. !    !!    !  T   ..                     .  .T! T  .  T!     .  .      >    .. .   .. T < !     T.TT       . TT    
+T  . T.T. .    T    .  .T      .> !! .TT   . . !  . .       <   T   .     ! ..   . .. !. !  T.T   . !   !. T . T T   T    !  .   ! !   . ! !!!.  > ! T
+ TT  ! !.    .T! .  .    ^  T  T!  TT .    ! . ! ! !  .      ..   !T !. T ..TTT       ! !  !T!      T .   !   .       T!     !!  ..      ! . > T  .T T
+T !.  . T! T  ! .  !TT    T.T    T!  ^!...  T  ! .  !!    T T  >...   !.  T < T T       T.   !. .         .T .T !..  T!T .!  ..       !.v   . . ..   T
+T.  . T  .         ! T.  .T   .     T    !      .     ! T !! !   !T   T.     T T       !   .   .! ! . <.T! .  !  ^   T.  !     !  . ..     T   .   .! 
+T   !  !.  . !TT   T T !.  ! .  .  .   .    .!     !! !    .  ! T T !  T !  . TT .         .   T.  .      T.  ..! .     !T ...    !        !!. TT !. T
+TT TTTTTTTTT TTT TTTT  TT TTTTT   TT TTTTTTTTTT TTTTTTT TTTTTT  TTT T T TTTTTTTTTTTT TT     TTTTTTTTTTT  TTTTTT T TT  TTT TTT  T TTTTTTTTT  TT T  TT T
+51 14
+T  T         T
+            ! 
+  ! .   ! <.  
+ !     .  >   
+  !     !  !  
+ . !  .     . 
+   !   .. ! . 
+ v  .    !    
+   !!  !   !  
+  !     .  !  
+ ..         . 
+    !  !      
+T    !! !     
+ !   . .      
+       !  ! . 
+  .. .     . T
+    .! !.     
+    !         
+ !   !    !!  
+  ! .      .  
+     .   !. . 
+  . ! ! !     
+ .     !      
+  !.          
+ !!      ..   
+ !      !  !! 
+ ! ! !.  ! !  
+  !  .  ! !!  
+        !.  ! 
+       ... !  
+         .    
+  !        .  
+ ..    .  !   
+        .!    
+ !!!  !  .T   
+ ! .  #! ! ! T
+T    !   .    
+  .   !  !  . 
+ !! .!    ! . 
+    .  .!!  !T
+   ! !  !   ! 
+       !   .  
+      !  v .  
+  ! !   . . ! 
+          .   
+ .!    .      
+T   !!    !.  
+T       !   . 
+   !          
+  .! !    .   
+T  T T T     T
+14 33
+TTTTTTTTTTTTTTT TTTTTTTTTTTTTTTTT
+ !!    ! .    !   !T ! T   !.  #T
+T.     TT^!   !T!.   v.  T!  TT T
+T  .. T .   . T     !.   !!   . T
+T !!   !    !  ! .       !> T. .T
+T TT. !!  T!       T  !.T!  !   T
+T   !    TT >!     T .T !.    !!T
+T!.   !T!    !!        T   .. .!T
+T . .^   T  .T  T  ...!  .   !. T
+T  !    T        !   T  T.    TTT
+T  .     !!T! !    . .    !  TT T
+T TT    T . .   >       T   .   T
+T.!!  !    T  ! T .   !  <..!  TT
+TTTTTTTTTTTTTTTTTTTTTTT TTTTTTTTT
+117 102
+T          T  TT    T TT      T T T   T T    T   TT         T   T  TTT  TT    TT TT   T  TT    T    TT
+   !  ! !! !      !    >!!!.    ! !. . T    !   !.< .   .! T      <   ! !! !      !      .  TT   >  T 
+ .    <!  T! !      ! !T  ! ^! ^v!  > T          >!    > . .< ^.   ! !. !T     v     !  < !     ! ! T 
+ !T !       T >  .    ! vT!!   !  v     v  .<    ! .T     .      !!  .    !   ^   !T <.     !   . . TT
+  T.     < ! .    !  !      ! <  !! !  .    T      !  !   .!     < .        . ! ! !!. !.T !  .     <  
+ !! T.T T  . v  !       .!  !   .! T  .! .    !    !  >  .T  .        !  >  !. T   !        T TT  <  T
+   > v  T!   !!     > !   >   . T.<.      !..          T  ! ! T     . v     >  >      v        >.  !!T
+ !        ! !  !        .         .T . ^ T          .    < .           !!! >     !^T    T !!T   T  !  
+        T  >! !     !     !.  .!   !.T    ! TT^ T    .! !!  ^    !T . !         T.   ! .  < ..! .  ^ T
+ .!  TT!    !        ! v >       .! <!         T! ! TT !  v  v!   . .^T      .!  !  ^. .    T  ! >  T 
+  v   !.      v  <!.!   T  >    ^       ..        ^ !   .T   !  !  T   T  !   !  >!   !T  ! >   T!    
+T        . T..        !     T! ^  .TT   <! v. >     ^      .  !       ^ !!   !  .    !  !  . T .   .. 
+     ^            <        !       !         ! .    .^ !     !       !            ! T   .v! !   <!!   
+T   ! !!T   .>   ! ! ! !< !  . !   T  ! .          .       . . ^  v !..  < ..   !  .!^     !.  .. ^   
+      > !        T .  <  !T    !     v! T.     T!       >  ! !    !    !<  <      ^     ! >   !   ! .T
+   !^ ! ^   .    !       ..    .T T    !   !   ! T   >  !T  .   !!   <         !         T .!         
+  ! .      . .T    ! !!         T.  !!  v >!!T   > ! . !        . . !! !T > .   ! . T !T. ! v!!T!   . 
+T      !!.   .   !    !T  Tv       > T      < !^ !     !v!!   .   >  .          !> T!         !  . ! T
+T!v !  T!      !      ^       !<     !   .T     !                  !   T.  . <  >     .   T ! !   v!  
+      >     !.^^T  v     .  ^. >  !. !! !   .  >    !<   ..!     !vT    .      T.  >  !! !T   T       
+         <             !!       .    ! >. .         ! !        <      ^ ^v   !     . v v! !!         T
+ T T!!   >  !   .v  ! ^        !!!  .   !v!    .     .  !  .         .!    . v    < !    T  !. !      
+ . <  v   !  >!TT  !      .  ! .  .    ! .^!!   T!  ^      ! .  ^  v ! T!   .          <    .! T > !  
+       ! ! > !       T   ! >    !^^       !       !     ! TT        T      !v  !!         . . !       
+          !   .   !<.! <  . ! ! v. .T    . .!   v!v    T!   T   !    <!!  <  !    !!.T     !   v.  .v 
+ !  TvT!  . !  .       ! T  !>       !     !   !.!   !     .      ! .           . T ^    !    ^   v ! 
+Tv.     ^  .  ..   <!    !    !    T      .   > !!     ! T!v      !^   T !   ..!v            !.. T    
+ ! !T  !  v    <  !      !!!    >    !!      .    T     v    !   <.      T  ^^T    T !          ^   T 
+       . !.   ! .     v   !             ! TT        v      !!T   !  T.!  >     !  .          .  ! .! T
+ .!        .   v v    !     T  T  ! Tv     .  !  !       !v     <      !       T .!T    .>!! !!       
+    !    <         .  !  .  !!! T        !       . ^   T!   !!   . .!    TT^  !   < T    !    T      T
+   ^ . !  . T! !      !!  !  !^ T! !.T!         <    .!              !            .     ^!     v   v  
+     >   <   !                .! !    T    T !T .      T     !T  !    ^T      !!  . v      !>     !  T
+T!   !    !.!   .       v     T        !       !  v    .! ^  ^.   !   .!         .  .    < !!     .   
+  !T !      !        v !      .   .    . !T  . !    ^T     .!   ^ !    TT! !    >.. ! v   !   !   >!  
+ !>        < T  T!     !>  T v > ! T       T T    !!. !    T T    T  ! !   !   > !   .  !     .   >   
+T   !!  >   !.    T ! T  T         ! ^       !         T ^     !T  <  ..  T  !  .        ! T !!  !  ! 
+ ! !. ! <!.  .   .!  . ..!           .    ^  !!    !  . .  ! . <       .  !! v!.    > ! !  >  !   !T  
+    >    .!  v !T   .  T!    !    !   .      > TT      T  !!!    T!   ! !    ! !       .     .     .  
+ >  !    T      !T!T    T     .   !. !!!^ !   T  v!   T  <     !TT   .!        .  <! ^ ^ !   !!!  ! . 
+T!       >    .    . v  .   .   !!     T!   T! .  v       .. !! .<   !!  T ^.    T          ^!  >     
+   !!. !!    T    !     .  !    !^  ! T      !    !      .    .   . >  T! !   <    !     !! .!     v!T
+   ! . Tv.  T  !  !  .      !   !! ..! <  ! ! >     >       . .  .>   T     ! .   !.  >     !         
+ .!.. !  .!  !!!!        !        !   .. >.   !   . !!      ! .             !!            T.!   .     
+     . .           !        ^ ! > !v <  ! .    !    ^      ! !   !  ! T   .        T  !T      v    !  
+      v !   vv! !    !.!  .!  ^          !  ! !T      !        !!. >! > !  !      !!.    .       ! >!T
+T!! !     !   !!     >!  T   T  ! ^ ! !  v!  v!>  !        ! <      <              !  !  !    ! Tv.  T
+ .^  .!!  <!          ! !  ^.   < .       ! . .     !  T  ! T. >     ! !     ! !  T     T    T  !  T  
+T !    !  <! !     ^   !    !v ..  <!  .!      !> . ^    ! !!  !   !    ^         ! T   <.. >   T     
+      !!    !   !   .          <  !  !   .<        !   .! v .   ^ <  .           T      .!     !   . T
+     <        .   !<! !! !T     T.!    !      .  .^! !     Tv    T  !  <!! T       !   . v.  !. !v    
+    !   <!     !.    ! <!.    . !   ! !  !< ! >  ^!. T ! .     .> !  <!     T! Tv   .   . !           
+T        T T! <.! ! !   !!   .   <          ! < !         . . >.   !  !.      . .    !     !v! T  T!  
+   !  T^ .<      . !! !< ! .v  ^   T  !!     ! .!.!  < !      . .>  !.!> T  ! .!  !  ! T    !^ !T    T
+    T  !          !.T   .! !  v   v  ! .     !.   T . ! T !     ! ! ^!!  . .   T!^  >.  T v!   .      
+       !  .>.    v   !!       !     <            >     !T <      !     .!       ! .  < v    !!       T
+T    .    !           !     .v.  ^ .!   >      T     >!!.!!         T!   .     T..v !T    <!   !!     
+  ! !.   .      T !! TT  !   .  !        !.T   T.  !         !^          T!      !    <             ! 
+ T  ^            .!T T    T  !!       !.  .   .. !  !  T     !.    ! !  .  T         .      ! ! !<! > 
+TT  !     <  T v    !! T! >  T. T!                    T       < ! <  <.    <        !    !        ! .T
+  .T.   .        .    !!    ! <  T      T                   !< .   >    ! T   !!     .<!    !  ! ! T  
+T^ !> TT    !   !    <     .   !<.TT       .    !   .     !!        !  T < ! .T T  ! .  T  !  !    >  
+  .    T       !   !          v.! T!  .!!   !  ! ^ !v.    > T.   v     ..       T <! ! !    T  .      
+T        <   !T .  !     !  !v. ! .  ^.!  !T . .  !    !<!  >   .   .      ..   T     !      !     T  
+   !  !  .   . T    T v    T! T  !        .       >   <. !. T!! T!  >        !  !   T   !T !!vT. <    
+      !  ^.     !     !   !     .>   .      T T     !   .        !.     <         .^           !   !  
+ T!   !    ^      !!T    ! ! T!! .    T   !!       <        !vv   v  <  .    >       >    .     T!  ! 
+  > T !<           !  !.!       .      !   T.     <  ! ! >     !>.    . !    ! .    !.   !   ! v    . 
+   !     !..!>  . . !!  T    !!           !               !   ! !.T . ^!T!! vv        <  <  !    ! !  
+  .^   >     !    .! ^ !!!!!    .  ! !  ^   T  v!T   >! T  !     !  T  ^ !! !   T !!   .       ! >.T T
+ T! ..      v T. T   !!  T!  v .   !     T!T!!  !T !   ^ T  .. TTT   ! ! ..    <!    >    !   ^    ! T
+TT       .   ! ! T ! !    .    T   !!.  ..!       T .      ! !    ^  !  ..  !!>   v! T  !           T 
+  .. < !!  T  . T!  .  ^!!  TTvT    ^ T!   !!  !   >    .  .        ^!          Tv      .  !       !.T
+T     TT     ! ^ !!   ! !   <        !   !    ! <!  . !    ! ^   !!    .             .!  . T      >!  
+ ..T .   . T!      <  !!  T   !   !> T !  .         !      !    >           T.! !   ! .  !      T!   T
+T.>        <   !T.     !      !   T!<  > !    ..T  T ! T      !    <  >. >!  < !    ! T . .. T    v   
+ T!    v. .    ! <  <  T.       !      ! T T       !    !>      .<     !  ! .      !  >  ! T     ! !< 
+ !   !     !  !.     T          T^         !   !!.>  <  ! > T  >     !  v.^  v!T!!>!   !         ! T T
+   T.<!!     .         ^!  T !<      ! .   !    .  !   .!  . .    <!  v  T    ^!T.    .v  v    >  > .T
+T T  !  !         .  T  .       . !                  ! T >   <          ! .!   T. ^   T   !  ! . .    
+ .      >     !     <   !! T!    >    !.  . !.        !    .!! !     ^  <   TT !       . vT    .  > vT
+     ^! . .!T! !. .     .     . >  T    . ^T!!       !  !     ! >   v    TT  !T !. T       !    !>   T
+    ! !   !         !    ! . .    !.!     !!  .!!!v  !   ! !   .     !   !!!  !. !   T  .!      !     
+T  .      .  .        !.          >! <. T    T     .!    >       !.>         v     ^v. !!^    T!T !! T
+       . > ^     . ! !   !   >   .!  ! ! .        <    T!         >    ^ .  T ^. T.     ! TT   !  v  T
+       . T.!  .   <! v    ! ! T.           !  T   .             !.    !  .<.  .  !   !    < T ^   ! < 
+ !!  . .T  !^      !  !    <! T. v >!! ! TT  ! T  .      !>        <          ! !.    < !  .     <   T
+  !  . .     .. !!            <  !   .T    . !  >  !   .    . vTT! < v !!!  .  !  v   ! ^!<           
+          >  v !      .      !T T !      <!  !         .   <  .  >   !     ! T  !T       ! T!   !     
+ ! !. .   .    >  !T     . >      T .    ! ! T  >   .    .<    T    !    !     >     . .   !! ^     ! 
+ ^!   T^!      !.>  ! T  T !      !T v !      ^ <   !^!    .!  T !!      .  v     <        !!T  !  >  
+T  T.      T     !    ..!  !! T.  ^ ! . . ..   !          T   > !.T     T  v   !         ! T !   T !  
+  ^     T. !   .  !  <  !.  T   TT  ! v!!  < T!!  TT            T   .T T  T   .  ^    T.! !!       !  
+    !   !. !< ! .      !.  !!   >   > .T .  ! < !   !    T.  !   ! .      .!v  T    !        v!!  v ! 
+   T!<      >  ^^v.             ! T   T    T T     < ! >  !    !<  T  !. .     .   T    !        ^  ! 
+     !  > ! T   !  <          TT       <     .   ^!     !     !     !   !T  !   ! T <  . !!    v^.!!  
+   T.           .   !  !   .v         T!   !  !      .    ! >         !<     ! <!  .   T   !   !      
+ .   .  .     !  !         .! ! !   !   !    !     < T    . !   <  .!T !        .vT        >! !      T
+ T   !   !  TT          ! !   ^       T.  ^ <  !  <.!     T  >  ! .. ! .     >!!        T  T  ^   > v 
+   .    !v vT!..  !    >   !.  T T              ! T !T   !              ^ !     <        TT !v.       
+                . v     !   !       v!^    .T TT      <  !   >  v     !  ..  TT .      ^   .!    !  . 
+  T     v.^    !.   !   <!      >!!      <   T   T    !<          !  T!>  !  !    . !    >            
+  .. !        >  !!         !     ! !   < !  >       T  .> T  .  ! ! !   !  .v    !   .  !T !        T
+ .  !      !!    !^       .>  <!  !  !     v     !.       !< !  .     v      .     !           ! <!!  
+   ^  ! !     <! !!.!  !^!  T  !v !   ..<    !        ! !.<.    !!  T   T  !   !T! .          !      T
+      .!    !# . > !              ^       <   !  .         T  !!  !T ! !  !    T   T . v!     !   T   
+  T       TT! ! .<   !<              !      ! .!  !  !   T .  !   <. T  .  .      . T T  .T  .   !    
+        ! .!!         .  <   T  ! . .  .  !   .                 !<        T  . !    !T . !     !. ..  
+  !          T              !! !T     T       !.  Tv        T  T!  TT   .!  T  TT     .    !  T  v! !T
+T    ! T.v^ !  ! T  ! T      ! !  !^  !.   .<        !  !  !      T    ! !   !         T     v    .   
+  ! ^             !!  T   ! T. !.   .>          !     !  !T    < ^ T      !^   !   > !<!T   !!  T !!! 
+T   .  T    ! !T T     >      T    <   T T  T     ! ! T .   !    !            ^  ! T!!  <!   .    v . 
+       !    v! !  . <.   T  !       !  T  ! TT  <  .^        <! .    .  .       !>!         ! !  !    
+T.<  >!       TT^       .!   ^  ..!  !  T >        !     .  !  .  ! !!   .      .  !  <  .  >  T!T   T
+T. >    !    ! !    .!  ! .     <  .      T T !    . T   .    !!<  . .      v !. ! .!     T!     <    
+ !! <    < !  !        v     v    ! .    !    <      !.v      T >!    !    .  ! >!    T    < . T  ! ^T
+T    TT T T TT  TTT       T   T     T  T TT T     TT  T            T       T   TTT   TT T  T T T T   T
+34 62
+TT   T  T T  T TTT T TTTTTT TTTTTTT T T T TT   T T TT  TTTTT T
+     !! .  < !<! >!!          >     T >    T   .     !^  !  ! 
+ ! ! !  v     < !  >  v!>      >   <     <   >!   !     > ! !T
+T      !!    !!       !    T!  ! <    !!  . .!.<   !T      !  
+T!<  ! ^     v!>!           >! !  >! !    >   !  ! !  !   !  T
+   !!    ^    .>        !v   .    ! <  .      <  v   v T <   T
+T !     !       ! .! !<      .^! >!      !<!!  > ! !       . T
+    .  >!   <      >      ^ ^!!  !     > !!   >    !   ^^   v 
+   !     > T             !  .v  !  .^ !    <        !     <   
+  < !  !  !!   ! . . !! >     !>  .!     !   .      . ! !!   T
+T! !  .v  .  .  < !v!<!         !  <!!          ! ! . !      T
+  !      !!    !    !   ! ! >  .!  !   > !  <    <   !   >.  T
+T >  .!!  .                    !v !   >   <           !!      
+T  T    ! v           >      v^!    >   >   < !v ! ^ >!   v   
+T!       !   !   v !       ^^ ! ! . !    . !!   !!!     ^!   T
+ !!  ! !   ^       ! ^v!         #   >  v!    !       ^!   < T
+  ! !  <    .v  !   !!  ! .T! .   !! !T .!. !!^ >!  ^         
+ !!   !   ! !!! !! !   !>. !! .     ! !  ^ ! ^      !v  ! !   
+T !> !!    !         v!  !    !v     <     !  !      !    .v T
+T    !   >       v  ^  .!    ! !!  <      .<!             ! ! 
+T  <.   >    < !     !v.     !      <         !! v  v v     TT
+T !    <      ! <  < T!    !<   v!!     ^  !   <!!   !       T
+T      >!  v  !   >! !  <  > !      >    !v    ! ! . >  !> ! T
+T      . .    ^   !  ! .        !.T       !! v  v   !    !   T
+T   !!   !  >  !   !   !  >! ! ! >       >   !  !^v   !   <  T
+T!     <!   .   v^  !    < !  .  ! !      >    !       .!!!!  
+T          ^ !       !         !  <!  !    !     .    !       
+T   !.    ^ v !v  < T!< !    !    .  !      !      ! !    T  T
+T !  ^ !    !!T  >!  !> ! v   !     v  !        v  ^         T
+T vv  ! ^!   .    !>           !     ^v.^!  ! ! .!    !     TT
+T !!  !!!   v     !   ! .  !  <    !  !     !!      !!    .^  
+T <  .   !! !^! >   >  !v  ^ T!       !        <  T   !  TT   
+T!  ! !!<     !!<          !. !    !!   !       !!     ^  !  T
+TT TT      T T TTTTTTT TT  TTT  T  TTT   TTTTT TT T  T       T
+112 101
+T   T       T T        T   T T  T TT T      T T    T  T          T   TT    T TT T TT     T T T   TT T
+  !  .   . TT >.^.<    !     ! .. T   T T . . !   ..   .  .  T .! T T !T <     .. T!  ! !      ! ..  
+    <   T !<    ..  .    T   !T !T         !   !T  .. .T!     . !   .T     T!   ^ !!.  T  T..  !. !TT
+   .    !   <!.   T T.    ! T.   .T    > T.  !T  !   v!   .T T    !   . .T  ! ^! ! !  T!.T    .! !!  
+ ..T  ! .   T .  .        T  .  !! .  .T.T! T  !..  ! !! ! TT !v  .!  T!!!!<!.   ! .     !^ T^     ! 
+T     T! T   T! T  .  !  !    T     !!!    . T  .^.!. !  !  !. . T! .!   . ! T . !.     !.    .!T  v 
+T T !  !^! .  . . ! ...T.  .!  . . T TT!   .T!T    !TT . . ^T.!   .  . !.  ! T   <  ...!!    T     ! 
+     !! .   .!    !! .! .... .  !^ ..!  ! TT.    .T. !! !       ! .!        ..T!T.. ^  !T   !!!   v. 
+ .   ! T  .!. ! .  .  .  T .. .T .T  T       . ! .  !!  ! !      T!.  .T !  TT  T  !     ! . T    !! 
+T  !T.   !   > . .     .           !  ! < !!     T  T .!! < . .T     !     ! <  . >  T     .  ! .   T
+T  .  .   ^! .TTT...   ! .T^  T     .^TT  T  .  . .T !   !  T^  !  . ! >.  T!. .  . !   .!       T. T
+T   .! .!.  !     <       . .  v.! <    !T .< ..!.  !.   .   !. T!T. ^T !.!.. T. T  .!!T  >  .T  ! < 
+ .!   T .    T.    !!!...T.  T.   >!..    ! !.!!!!  T.  ^ <!!...     !   vT!  . .  !  ^    T .T !T   
+  ..v!      ..  .!  ^T.. !^^ T !    .< . !   ^ T...     .   T.  !. T.   . . v.^ !    ! ! ..    T   ! 
+     ^T  . .T!        ..    T..TT   ..   !.  !   TT^ .!T   !. TT. T .! .<    ! T^.. T     v.!>   .  T
+T   .  !<!!     .T    .T  <  TTTT!. . .! ! .! TT  T  ! .!  . ! T..T !    .!  . .!     T.TT .! T. . ! 
+  .    . .     >    !T  . T  T.TT           !! T     . . .T !.. TT T  T..  !!^  . > .<.  < .. T  .   
+T .!  .   ..^ ! .   T. T   !.!      T .T  T !. ! !  ^..  T     ^  . .<  . .>   T. T T  v ..!! !    . 
+ T T! v    .  . ^  vT!   !!> .   !^  !.! T   Tv   ! . T..!  .!  . T . < T .   .T!^! ! .!  !! <  ! T T
+T   !  T . T..! !T!..   .! .TT ..   .     !  T!!       ^ !. . T T .!         .T   .     . .   T >. . 
+ !     T  . !T  .    T     ...    T!   .  T       T. .T T!T     T T .   ! <  ..T T.!  !.!! !TT.!T  . 
+ ! T! .! . T!  .< T    . . T  !    . T     .       T   . v . . .  .   TT..   T!T! !T  !  T T T!  !!TT
+    !.  T!!T! > !!. >. !!   .  !!!T.!  .   .   !.      T !.   !.Tv.  .  T     T!.T .   .  T T   vT!T 
+ . . TT !   !.   T !...T       T .. >.  T T! !! . v!!       T.    ! .T  .!T  ! !! T.  .!!.   T!   .  
+T..    !..      .    !   !. !  !.!!  !<..  ! T ...      !  . >          ..<     ! !!     . .. T ! !.T
+  .  .. ..! .. !! T  .!T .  .T.     .<! T. T     >.   .v  !<!!T v    ...!.!.TT  !!     T!^!     !. . 
+   .   !  !  >!  !T   T     !   T     !..T . !.!.!..  !! .  . !!.!!  !T   ! .  !!.    !<.! ! .  !..^T
+ !    T   .  !   .. T >  <      !.! T.!T   !!.  !.! !.  !    ! TT   !! ! . !!..   ..T!           <   
+ .T!  T  T  T .v!  T  T     .!!  .!  T !   .T T!   !      !T  ! T       >!! .T   . v! . ! ! .! !.  TT
+    T! !  !    .!T  .  .   !.        .. ^  T !  !.!!    !    T.    T .   !  T  T..       T !. v.  T  
+ ..  v.   .^  T  .. . .  . T  .   .T. ^  ! . .!. TTT T  !.T .. !. .!! >.  ! !       .!. T.   !  .<   
+T .!      .     ^!T. !!! . !  T vvT T   ! .^.  T^            ! !   .!  T    . T .  ..!! T. ! . .!   T
+ .!T   !  T!.   !v .  !          !... !  !  ! < .  v^T. T..  .T  T    ! !.      . T .  .   .  .!  !^T
+  ^  .!! ^!.   !   T!. .   v   !! !! T  T   !      .  . ...TT .! !> .!  !      TT!..^    < T   ! vT T
+  !. !       T !  ! T    T^. .    !v !  T .       !!T          ..!    !  Tv!... <     . ! .  !^.!    
+  !. ! !.  T .    !T! .  T! .  ..   . .   T    ! <   !T ! T  T    .! !  .     .!T !!  !.  ! . ..   .T
+          !    !  v     .  .!! >  !.  T. !.      .    . .   !   > .T .  ! ! .!. .  v  ..!   . T. !.. 
+T    !  ...>  ! .  !<..T..!    .!!! .T . T  T! T!  T.  ! !.! ..! .^!.! !! .  T T  .!!    vT .! T!. T 
+T! !  T  .     <! .. .   .!  ..T !  T.< .    v   !..T  T .T < !  . !  !!^ ..!    T!! T!      T  T !  
+   !   ! !!.!T .        ! ^  . .>!. T!   !!     T !TT   .!  !    .     ! !T   TT.  T  .!  T ! . .T  T
+ !v   <.!! . !.. !  .T .     !  !.!!.!    !>       ! . ^!   >.!.  !  ! !..     T.!   .  .  T  .  > . 
+ T   .      !. . . !.. !  T  .   !v       ! ! .     !..   .!TT..!T  T!T   . T     TvT T ^!  !!T!.T .T
+T  !      T  .  !  >. .!  T .!T  . .  ..v .   !!.   !!  < T!.   v !>!    v   !           .. T.. !..v 
+ . ...T!    . . !!!! T !      ...   . . .T >. !  .  T   !.    TT!   ! !    <   .! !  T  < .   .T^  .T
+T     T.    T.!!   !!  .! .  !     TT !.!!!.   .T! T   T.   ! ! ! .. ..!.T!   T!.. .    . T!.. T..   
+  .!   ^  T! ! <.!! .   >.   . !!   !!    ...TT . T... .T .^ <!T. TT  !v !.>...!  !! !T       ..>  ! 
+ !. !      .!   !   . !!.  .   T T!  > T   ^    ..     T  . !    T  ! .          ! ! !.   .  !.  !   
+ T..       .TT  .T.  . .   T T . .!T  T . !.! .# . !> T. . T ..!   . ^!. >. . !  .     ! T!T   !T T! 
+ .!T T.> . ! !    ! .T.!..    .. !  !.T.!.  TT.  . !>!   .   T T !<  .!.   TT  ! !   ^ !  !! ..!T!   
+ v     !T.!T        .!T. ..     TT..!  <    .  ! . ..  <  !!  . ..  . . > .!.!!  !. !       . . ! T. 
+ !     ^ TT   ..  . . >.T.  .TT TT    . T  T >. !T .  !  .  TT   !  !   !!   ! ! !        . !  T ... 
+  . .  .    !T .  >  ! T ..     !   >   T !  T !   TT!Tv !. T      !   !  T.    ! T.!  > !T    T. !> 
+    T!     !! !       ^ .     .   .< . ! > .T .T < !     ..  !!  !. !..T!.  !! T.     T . >! .  ! .. 
+T  ! .        ! ^   .T! ! .  .  ! !   T!  .      !  . T.     T  T. T.T   !   T     .    T  !     .   
+   .   .!!!.       T   !!  ! . .   T .  .T      !  .  TT . T.        . TT ..!T!T  .T!< !<!.  . .T  T 
+     ^ T!.!   ! .!T  .! .v       !. !!      ! .  T   . > .! ^   . . < .     ! <  T   T    ! T   .T. T
+   .  T    T  !   ! T   T ! . .      .  . ! T.  !      . .! .  !  .   T .      !!.    ! ! !   T    T 
+  !.   .   !T      T. v  !..  . ! T  !!!!!.T   T!  !^  .        !!!! ...  !  .T . !.!T    !.   <..>  
+T  . T    T ! TT . ..T  !    !!! .!..!. !! T T   !!     !         T!..  .   .T   .!!   T.!   . T     
+T.  .!   !. TT . . ! !T  ! T   ! ..! ..T..      T !   T    !.! .  >!!T   .  T.  T ! !<.!v ! T ! . T T
+ .T . ! !  !     T. T    .  T! T..   .  !      T  .!    ..T  !.T     .!   . ..     ! !!T   T .!  !   
+T !T!>    !T !T.  .   T .  !  .T T  T..   T T  ....!   !T .!  T   ^ .      .    !      T   !   T.T TT
+ < . !. >!TT   ^   T T .  ^ !  .T.   T . ! !  .T ! !!.   v   .. !      .   . !!!  .  !.! ! T T ! ..  
+T T  !  T  T.     !T...T.!  !.. T.   .   T  T!  .    !  . !       .   .! <!   T!  ^!^  .! !!  .T     
+    !v.  . . .T  T   ! .    . ^   T.T.  .   > !T. . !.   T. !>       .       ! !T.   !  .    T .  .  
+  T  !.         T. T!! .! ..    ! T    .. T >     T. .   ! !   !.       ^  !  !    ! v.!  T .! ! ! .T
+ . !.  T Tv^     T     .! T   . T !.T  .!T     ! <   !.!   ! ..   !   .T. .T ^  T T . .vT    !.      
+ !! . T.> .       .  T    < !.!  T T  ..   ! <!T   !!!. ! .  !.!!T!!! TT .    ..       . .     ! !!! 
+T v!! !! .   T. .  .T      .TT. .    T  T.T!.   <      ..T !  < ! .!    ! .    . T      . !  >    >  
+   .    !v !T !.T.           <! .. < .    .. T..T   .!T     !!   >  !.<.  T !  .!  .. .. T  T .!!T   
+T !T  T !.  !     ! T^ !  v ! . !.!. T.    T T     ! !   T  .     T! TT  >   T..  ! .! T. .  T   !.. 
+ .  !   .     T .T T       v!  T  . .  !  .   .T !. .   !! !! !   . T!. ! !T. T  T !      . !T  .!T!T
+ . ! T!.!T  ! !     ! !.    ! . T       . ..      ^  .T   ! <!T..     !  T T! ! T!  T!<  T!>    ^!.  
+T        !.   !!> .>!. .  >.  !. !.      ...! T T     .  T !<   T   .. !     v...     .T. !     !    
+ . TT!      ! . ..  T! ...      T !  .       .     T  !T  T T.  ! TT.     ! v T >!^     !..!T  ..  T 
+        TT  . !   TT.   .TT ! !!    .       .!.TT   . !. ..  <       .  .<!   !     v .. . v ^ .! !. 
+ ! T.. ^T      ! T!.      !  .   ! TT!T !.T !!T!. !..>!   .<!!  !T.^  ^.>    . T  !   .   .  ! . !!TT
+ !T T T .!.   !!!..  .!T   ! !   T!.    T .      .T   !..   ! ! !T  ! ! .  ! T  T !   ! T  ..  .^ .T 
+ ..    .   .  !!  . . T  T    .   .   .^.   .T..! !      .    .TT    T! ^. T        !      >! ^    > 
+   T  ^!   !T   !      T <  T   .!T !> ..!!!       !.   ! .     .TT!!.T  T  T T. T T.!TT . .    T!  T
+   T!.. T     !!   T !   .!  . !   T.   !  !!T .. !   !.     T   !!..  . . . .    T     T T  ! .T    
+ T.   !! .   . >  .  .     .   !   . .   .!!. . T! !T!!  >   T   !  < ! !  T..!  .. ! .  T .      .TT
+  .  T!. .     .  T    T < T.. T.        !  T  . !!   ..     .!!!  !.!T . .     !. T  ^..! ...T    ! 
+   T  .T . <.    T !  .T  .     .     .   ^.T T     TT! . ^ !>... !  !. !   .!T! .!     T  . <!    . 
+ .  !.T.       . !!  T!!  !!.!        T ! !.!.  !   . T . !!!T !     !  .!     !. .  T!T. ..  . v . T
+     !!>      ..  ! >     >!  .  T  !<   . !T T. ! <. T.!.T  .T     !T   !..T .<. ! .. T. T   .   !  
+ ..T !  ..   !     .   ! !..        . T   !   .^   T . .!   !!.! T!! <!    T   !  v     !..!  . !    
+T !  !  !<   <!   .T      TT!     !T T   T  T   . .  !.  T.T..        . !T   T    !  .     !^ TT T..T
+  . .! T          . ! !.!!.>  . .!  . !  T  .!. ... T  .. !TTT  !. . T! v!      ! T.T .!  > .  T T!! 
+  <    T  T       ! . .  .   !  !!!   !T .   ! !.   ..T!> !.   .. .  .  !     !  T T. v     !!    ..T
+  ! !T.! !. <  T..!v     !  .  ! !   .   .^.        .    . .   !! .  <  T. .  .! !. .  v   !  !   T  
+ .^T   ! !!.  .      !  >    T !T     .T .       T  T.    .. <   . !       T..   ! T     .  !.! .   T
+T     !T T.. ! .  v ^!T! .    !   ! T   <   < !    .T    !  ! .     .T!  v .T.. . . .    T ..     .. 
+ T.  !!   < !.^.TT!v !  ...   .!!.       !^..! T T . ! T. .<   v v .!  T!.  .        .   >  !T     !T
+T!.^  v^    !  ^     !    T .. T !!!!.  T .T !!...     <       .    T T !! vT. T  >  ..! . . T  . .v 
+ .  !..!^!       .  v  !   TT    . ! ..!< !    !  T.       T   TT!!. .!   !.  .T ..T   .<  .  <..^!  
+ . !   .      T!     ! !   <  T. T.  T!    .     TT. TT    . ! ..    .. T .T   . !!.   ! . T  T  .  T
+T.!  .    !> T   .T        .      !.! . !   ..T   T! . ^  TT >   !     !   .TT!.T.> TT  ..<    v!! T 
+ .    .!!.   .>! T . . .. TT !    T! .  !.v!  . . ! .! .   !.     ! T   .  T. T!. ! .. . .    !      
+    T  .> TT!T   T  !  T!.. ^!.  >.     >   T . >  T..  ! ! . .   .! TvT !T. ..v  !  T  !  .   !     
+T...   .!! !T!  T ..T T...  !     .>             !  !!       .!T .  ^ .. .    .      !<.     .!   T! 
+T !T.  TT. ...  T    !!      !   T.  !.<..!T  .!     .! !  !! !  !.T  T  ! . v   ! .!T     !  .!.!   
+    T^ ! .!    . T .. !. . .T!. .!.!T    .  .   <   .    !.      ! !.  TT  T .  !   ^.  T .!!.  .    
+ .< !! !       .!< ^!T T!.T  .    ! !!   !!  ..  . TT .    ! !  T    v .!   ! ..  !  .!T !v.  ! T .  
+   > T!.  .     .     !! v!.!  . !..! ^.  .   v!!     v   v > .      !     .    ! !..!      T .!!  ^ 
+     ! .       ..v .!! T .!    T.. TT! .!!T.v!   .     . . .! . T T  ! .   T......vT   .   ...T ! !  
+T .      . .  T   !..!.  . T !.T  !   >. T !     .TT ! .!  .  v.   .   T  !  T.   !!     T !T. .   T 
+  T. !  T  !>  .   . T!. ..  ! .     .   !       . ! ! .  !  . ! ..   . T..     ^.  .    TT.    . T! 
+ !.    . . T   . >  .   .        T !    !    v < .T!. .    .. . .!        . <  T !   !TTT !    .  !! 
+   >   .   T . . !.!.  v..    !!. TT  v   .    !. T   . ! .T  !T >.      T    !.!T .!T T !      .. !T
+T !    T . .   !T..  .^.     T  !>.T   ..  .   >  !  !        T  .   !!   .vT  !.  ! . !!T   T .  .  
+T  T TT TT  T T   T T   TTTT  T  T    TT   T T   TT   T         TT      T     T     T  T            T
+50 83
+TTTTTT T  T  T TTTTT TTTTTT T TT T   T TT TTTTT  T     T T      TT  T  T   T T  TTT
+   T     .  !.                               . .    .  .     !     T .         .  T
+T..    TT           T       !v.       ..         .  .       ! ^! . . .. .         T
+TT      . !  .v     .v             .     . T        !.            ..        ..    T
+T              .  T  .   <.    T   . ^     . .   ! .  .  . v   .      T            
+ .  .     .   . .   . . .. T  !   .    ..   T            .   !  .      .          T
+T .    ..        <  ..   ! !         <  .       .        . . .    > ..  . .   .T . 
+TT  . .     .    !             . .   . .  T         . >    .   .  .    .    .. T  T
+T..          .     .           .  !.T  !  .>       ..  . .    T   !       !    .  T
+T.. T..       .         .  !      .  vv   .     !     .  .              ..   !     
+T.     .            ..!T        ..      . .!   .  ..!   > . T       . .  ..  T .   
+  .    !     .  . .            .. .  . . .       .    >   ! <   . .!.   TT         
+T.     !! T       ^        .  .     .        .   ..        .            T   !      
+     T       .            .       v   . ^           . .               >     ..    T
+         T..  T       ..          .!   .          .     .         .  ..   ! !      
+T   . !   .T  .                  T       v  .       .       . .                  . 
+                 . .   T.         <      ..    T.v      . !  .    .      < .  T T!T
+T  T        .T       .       . .       .              .    .      .. .  T         T
+T    T     .  ! ..                    T  .          .              T               
+  ^ ..      .     .v  .   ..T    .  .         . .!  . .  T    .        .      T    
+T      .      v !        ^      ...              .  .                  . .  ..!  .T
+T  .    .     .    .  T  .   .  TT  .    .  T   .    >                   >..    .  
+T .! . T   . ^  .   >  . . !     !     .   .         .         ..     v      T     
+    !   >.        .   .     !    .T    . . . .              .  . .     .       . .T
+T         .        v.   .   .  T  .#  .   !      ..  <.!       ^             .    T
+T          .  .       .      .         . <....   ..   . <   <.          .   !    T 
+T  .  T!.    !.  !        . .  .  .    .  ...                 .T   ..  ..v.      . 
+        ..!   >    !   ..   T  !.   .        .!TT     !    .           ^   . <..   
+T  !   ..          ^        ! .     T  !  .        <                .      . .    T
+T        !.^  .. .T T    .    .             v  ^ .  . ..  .   T              ..    
+T    .        . .      .               .T   . .       .    T  . T   ..!   T    T   
+ !T                    ^       .     .     !.      .T      .  . .! .    .          
+T       T      !.      .         T                !    ..T         !.      .  ! . T
+     .    .     !     .          .  .  >  . .  ! < .          . .       .          
+T  .  T  ^.   .     .  ...        . .  TT   .   . . !        . ^  !  .     vT      
+                  .   v  .     ..T  . .!  .                         .             T
+T      .   ..               !.T         .  . .  T        .v        . . . ...       
+T T  ...    ..             .    T     !    .    . .      ! .        .. ..   T      
+   .        T      T   !  !   .  ...  ..  ..!    .         . . .    .        !   .T
+T. .   .        !     .     !   .  . .     ..         !        .          .  .     
+T . .      T                .    .     .     .  ^      !!...        .     .    ... 
+            ..      T      T. .         .   . .   .             .                  
+T .   T     . .   .   . .         ..   T!  T . !   .  . ..   .!        ..T         
+T .. ...        T.. !.    T      v.  < ..!     .            ^     .    . . !      T
+            .      ..  .  !   >.       .    .   .. .  !.      .    .     T  ^.   .T
+     T                                   >            .     .  T  .   !. .     . . 
+T    .          ..   . .    !     .           .  T     . T T .! .       .   .      
+T       .              .   .      .   .    !     .   ...  .     !  .   .     .     
+T             ..  T      <        .  T ..      .. .  .     .              TT ..   T
+T  T T T TT T TTTT T  TTTTT        T  T  TT   TTTT  TTTTTTT TTT   T T  T T  TT TTTT
+45 133
+TT   TTTTTT   TT  TT   TT T  TTTTT T  TTTTTTTT  T TT   TT  T    TTT T    TT T T TT T T TT T   T TT TTT T T  TTTTTTTTTT TT    TTTTT TT
+T .      .!. !     . ..    ..       v   !  !   .   !   .    .!..   !    < .T !    .     .   .^  <..      > !    . .  !^  > .    .  !T
+T  .v.>    > v  ..  .   >.  .  ^ >  .     ^   . . !   v   .  . . .  ! .!   T  .  .   !.   v   v    .  .> !     .    v         ^  .  T
+T          .    .          .      .         .<   .v  v.  .  .     . .    vv !.       .  !       .!v <. !     ^  .  . . .      ... < T
+ ^      ..v!    v .   . .>.  .   v ! ^         !!   .. !    .          <   .   .       .< .   ..!! .  .   .   . .  ^   . .  .v      T
+T  ..  !!..    ! ^.. ..>    . <  ! ^   ^  >   .  ^  ..   .. .. .      !     .   >          .. . . .  .! .        ^. . v    .    .... 
+  !   ^.  T  !   .  <  > ^            ^ ! >.!         . .    .    .         !   .  ^ !<  .  .    !. .>  !.   .    ..                T
+T.^ !   .^        .       ..    > ..!   .      .    .    .      .    .. .  .<!  !     .     .    !         . !     < .!  .!   .. >  T
+   !    ^  v.. >. !>    < .       .!! .^ ..  !.<!.       .   ^ .^ .     !    .   .v  .!  . ^ !   v    ..  <   <   !    < . .  >   !! 
+T.. .       v !   !  .v! <..<  .            .    .     vv   .         .  >   . .    v .  >.     . .    !  >   ..       . ! . ..  .  T
+ .    v .!     .   . !.  >!..     .!   <    v^  . !  >! .  v . <   v  . . !.  <   .   < .         . . !     .       !  v  .    .  .  
+  .   .     . .    v     ..      .   !            .. .         !.       .         ^ .   .  .    !>   v..   !    .   !!..   ..      !T
+  ^ .. . .    <    !.     .    .     !   . ^  <  .   ..  <    ! .  .  .v.  . ..   !     .  .  .!  . !     .  .<  >    <    .  !    . 
+T     <         . <   v         <         !     .. .>       v   v    .      ...^ .>      . ! .         ..   !  . >.  .  ...      !! T
+  . <!    v   .< ..   ! .. >.    . v      .   <  .! .   .    !   !   . .         <.   v    ..!  > .       .>  !    .  ^ .  .         
+  ! >         .!     !   < !   . .  !.  .             .     .<.^ ..   v        . ! .    . ^ ..    v  ^  !        ..  !..  .     . .! 
+T  .. !  !...   >  !.   <!   v <!.    <        . < .     . ^  .. .    !. .  . .       .    ^v..   . v  !!      > .. . .  . . .    .  
+T   ! . .     >.  v.      .       !^    <  .  .^   .    v    ^ .  .! .  v !  .     !    . . !.. .        .     .< . .     . >    !   
+T.!..   . ^.  .         .       !   . .       . .vv      !    .    !>    ...        ..  v <  !  .      ^ .. <.!      >    .          
+            .^        <   .    .  .       .. .    . ^. !  .   !     ! . ....   ^   . .          .  .   . ^    ^  . . >  . .. . v. .. 
+  .           .        .  < v    ^ ! .^.          ! .      .       >  v^        .  . v         .  !  ..            ^  ! .   .    .   
+T    .   ^           . . ..            .      v  .!    .!  .< ^^.      ...   v. .           !   !    . . T ^    .<     ..    .  .<.  
+T ^ <!     . .       .  v  . . !    .    .  ^ ..   ! . .v  .>    .  .    .<    ^.           ! .! !.  v.        .  . .             ! T
+T      <  <.     >   <  !   .. .   .  . !<       v.  !.. !!. >..  ..         >.     ^   !v! #.!!v     ...         . !. >   ..>  v   T
+     <   !! . !  <. .      . ..        .          .!!< ..  !<    .   ^ .      .        ..  v  v  ! .  .  >     .  . ... .      .  ..T
+T >. !   .  .  .      <     !  >     .^.   < . ...v .   ^  . ..!! ^    ^     .!     . < !      !    .    .>. ^. >   .  .     .<  > . 
+T    v      <      .>     . .  !          >   .. .   .. .  !. >         .      ^  .           . <   <  .  .    >  .   !  <. .       T
+ v.. .      .    ^!      ^.. !   ..^^          ! . .!. ...  ! ! .. .  !  .    ..v   !    v        .! .   <  !!>       v.    ! ! v v  
+T     >      . v        v ..     .    .          .    .^      !!  v       .!   .  .   ..v.v . .    . > . . v  .<    .     .  <   . . 
+T         ^ ..   ..  ^    .                       ...     .  . .      . !       >.    ^!!  !. . !      >.   ..   .  ..    ^   !     T
+  .  . .! .   <    !    .   .     !. .    .  v    .    ...           >   > . ^   .  ..      .  !<  .  .  >.                          
+T  v . !  . .     >.     ! ^   .    > .    . .      . ^       ! !.<     .         v    .     v!!.. . .   .        v <      T     <   
+  . . <  .v   <.  >       .   !.      v     ..   .v ^  .    ..    !  .v .    .  !^    . .  >.  <   .           .    .       v.     ^ 
+ . .     .    .  !!   .  .     !>  ^! !!.     ..v...           . ^ v   .       . ..    ..    ! !  T   .  .     !. >.            !.  T
+ .!.     .   >   .^            ..<.  v        .     .      >        . .  .  v  .           <. .^  .     >     .            .! .      
+   . v             .   !  > ..     ..    !.      . >  . ^!  . ^ v.     .. . . . v^     . !!.!     ^!.  .  ^.       >!  v    .   ^. > 
+ <  .   .. .  > v    !    !   .  .! .  !>..    ! .  .  .    . . .   . .    .  .  .  ^  <     !  .   . .  !   .. .  ..     v.>.    . T
+ .   .  .   >.       .^!  .   .    !.       >   >.. . !   . !   ..    >   .     .     !.      . > .    !<  .  !      .  v.          T
+   .  <. ...!   <           ..        v     !..   .. ^ !       .        .^.             .. .           .            >.             . 
+ .. . .   .. .       . .    .> .     .  <  .  ..^ . ..     . v v .               .. ..   > !< . ..        ...  !      ^ . .  .  .   T
+T  .^ .<!..  !    .     . !  .>.  .  .   >  .          ! !       v       .       .v.^        . .  !  v..    !.    >  .  ^  .   ! !  T
+T. !   .      . ! . ...     ..   . ^                <     <    .  ! .  .. < !. > .   .  . !.<! v^ v    .         .       .  .    >   
+ v.     .       .     !   .<    ..       >. !. v     .     .  <    ^!vv     .!    . !        <       .  .    !   .      >   !  . . . 
+    . <  .   >    .. ..       .  ! .       !    .   <  ....<   > .  .    >. >.   >!        <     .   >!    .     ! .  !.   .  .  v.  
+TT  TT TTT T  TT T  TT TTTTTTTT    TTT TTTT  T   T  T  TT  TT TT     T T T   TT T TTTT  TT  TTTTT TT T   T T TTT  T TT TTTT   TT    T
+64 33
+TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT
+T! !. >    ..    ! ! .#     .   T
+T! . !. !! !       >!      .!!..T
+T!   ! . . .     .  . !.!       T
+T. !  !.> . !^  !!       . . .  T
+T    ! T . !   T T    .. ! !T  !T
+T    T ! ..       !. .        .!T
+T!   !  .    . !  . !! . !!  T  T
+T   .    .T   . !  .         ..!T
+T   .  !           . .   .    T!T
+T  .  v. .!  !.   !T .    T. .. T
+T! .!! ..   .    . .  . ..!.!.  T
+TT   !  !   .! !   ! !   !.    .T
+T.  .  . ..     !   !  . ..    !T
+T.!    .!   . .  .!    !.   !<  T
+T    .    !  ! T!     . T!.  . .T
+T .       .  !  !     ..       .T
+T  !        .  ..  .. !! ..   v.T
+T     T.   !!.    !!.   .    ! .T
+T ..  T   !  !   ! ! T . !! .  .T
+T ! . !..!   ... .!..    !   .  T
+TT!!  .   . ! ! .!v    T .! !.! T
+T T. ^ . . .  !.         .. < . T
+T !  !. !  !  !        T .!!..! T
+T  .  T    .   ...  . !! . .  ..T
+T.      ^! .    T !  ..!   >   .T
+T v  !.  !..   ..!      !.      T
+   .  .  ^ !.             . .   T
+T.. .!   .   .   ! .    .   !. !T
+T..   !T   .     !. .!  !.      T
+  .    . !     !   !  .         T
+T  .!   .       ..!         !  !T
+T. ....  . .    .. !         !  T
+T  . ..! .    T.!      . !   .  T
+T .!     !. !!   !  .  . >.T  ! T
+T .      . .!.!  .     .   T! ! T
+T       .     .!. .   !!>. .   ! 
+T  !.!! .. ! !.! ! ! T..        T
+T . !!T   ..!!  . !     .   T ^ T
+ .  .       .      .    !. !.. .T
+T.  .     <.. ^     .   .   ..T!T
+T  .!!  ! >    T.  !    .     . T
+T !   .. ! .  ! .        !  . .!T
+T!      ! .         . !   !.  .!T
+T  . !!    .!!     !!      ! !  T
+  .    .    .   !       .      .T
+T !    .!   .    .    .    .. .!T
+T  !    !T. !   ..    ....   .  T
+T   !   ...! T T ..            .T
+         !! .  ! >.! !..   . !!! 
+T.     ..     . ..    !         T
+  .  T       !  .      !  .   .!T
+T  . ! vT!!  . !   !  . !   !!T T
+T ..  . .   .  . !v!    ..      T
+T! . !  ! .  ! !.   .>  ! !   . T
+ . T.     ..! .T!    !..    .. .T
+Tv !  !  !  .! .  .   <.      .!T
+T    .  ! !   !!     !.   . T ! T
+T!!  .  !.   .   ..  !!  .!. .^ T
+T     .    !!  ..  !   . .  !  .T
+TT.!.     .  T   ! . !.! v!!v   T
+T  ..   !. !.  !   !     !    ! T
+T  !..  .  .        >!    .!!   T
+TTTTTTTTTTTTTTTTTTTTTTTT TTTTTTTT
+43 69
+TTTTTTTTT TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT TTTTTTTTTTTTTTTTTTTTTTTTT
+T  T  . !!  T!  .!! .     .  T         . !.          . !!     !   > T
+T  <. ..    .      .v    !.    Tv  !   > .!    !    T  <!.v    .!  . 
+T > .. ..   T  !  <    T      .   >     <  T. !.  v .  ! !.!   . .^  
+T. >  v! !    v >     .  T       .  .    .  .   .   > .  .   .   .  T
+T ! .   .  .!  !  <  .  !  .v . <. T.   . !.       .    < .   <     T
+T! . T.  >.!  > .    .       !  . >  .<.     . !  !    ! !...  !    T
+T . .  .!   T   .v  T.     >   T !!    .   T  .     . >...<    . .! T
+T T . ^   v  .T.v  ^ TT  T!.< .!T   T  .....  ! .>.     ...  . .!   T
+T   . .! ^ .   !!  ! !           .    ^.>.       .    T v.^.    <   T
+T        ! ! .. <.  .  .<  !  v     < !! .T    .      !  v.  !   ! ^T
+T..>      ! .     !<! !!            .    v        <     !!       T  T
+T !  .!     >     .     T! .! .!!   . v  !T !. . .       ! T   ^ . .T
+T     . T.      .^     v.  ! .         !v...T ^ ^ .  !. ^..  .  ^   T
+T .<     T       ..   ^! .   ! !  T       . >  ^ . ^ .    >   < !.. T
+T  . !T       !v  > .     #..  . ..      >  !    ^ .    .!.! !  <   T
+T T^          ! ^..!.. v. <  .   .   v!  <   .        .    !     T  T
+T    . > v!!.    !     !T!    ^  >       . .   T   .!  .... ^ ..> T T
+TT  .  .    !   !^.v^       .T .     !  . !  .!  T!  T.   ^       .^T
+T  ...    !  T    .   .  .    !  .v T   <!v v <      ! ! ^ .!   <!  T
+T ^v            .!    .^T vv  ^! .        .  ..  .T !<    .T.  . ! .T
+T.     T   !.  .< .!v v!    !!! ! <  ^   !        .<   > .^  .      T
+T !     <  <   !  .v.  .     !> . !   !^v..     . .    T   .. <     T
+T    < !T  .! .<     . ^ ^   . .   !        !<.   T     < . !  <    T
+T     .^. .    < ^ ! .   !  .    .< .   .T .   .v  . !>      .      T
+TT  ^  .    .  > .!   !  .  <  .. !<   v . .  >   !.v .   ^ .! v  < T
+T T    !T  . ! .    T    ! T  !!<!          v      v.T!      <  !!. T
+T          T . . .       T  . .. ! ^    v.      !  ! !!v  T. >     .T
+T.   T  !.^          !< v  >  ..!   .!     .  . <  >.! .  .    v  >.T
+T  .!>!!    ^     .! T      <!       .!.<  T .^.>   <.  ^v^       ! T
+T !.     . !! ! . . T               ! .  !   .. ! !  ..   ! v.>     T
+TT .>. v    !T.! . T    !T  T      ^  > v ^  v .Tv < v!  ..  .> v v.T
+T        . ..  !       !             <   . !      !   T    ^       .T
+T   ^.    .!v   >  ^   T !    ^!T .    <!  ^   !   !.. !    ^   !   T
+T  v   v    . .  . .v       ! !        >.^   !      ^  ^       .    T
+T. . <! .  .<. .  .   v T  .^ .   .v     .  .T   !>   T ...  . .v   T
+T   ..      .   <       >     >   .  T     <  v     <   !.   . .    T
+T   . vT^   .    !   !.  . .  >   ^   .   ! ..    . !.>. !  . < . !.T
+T!!v  ..    .!>  T    .     T  !!.!.  .  < .        . .  !   .  !>  T
+T^..v!.T ^  ..    .   !   >. .    .. ^. !<  ^! !  . .  ! .! ^  ..   T
+T!. !     v !..  .    T   T  .   !.  . ..  T!    ! ^!  v .  .   ! T^T
+T !.  !          !. T  .!        !.    .  v     .    ! !. .     .>  T
+TTTTTTTTTTTTTT TTTTTTTTT TTTTTT TTTTTTTTTT TTTTT TTTTTTTTTTTTTTTT TTT
+103 16
+TTT T       T  T
+ .  .T  T   T  T
+ <  T  <    !<. 
+T   > .     >  T
+  v.T          T
+ T   . ! T     T
+ !. T  ^  .  T! 
+  . >..    v .  
+ T . . T      TT
+T.  .     .. .  
+T    .  .T T ^  
+T..^ v >.   T   
+        T^   .  
+ <  T ..  T  ^  
+T.. >...  !   .T
+  T!     >      
+      .   <  < T
+T.!  TT       TT
+ <.. T  v !  . T
+T   . T.  .TT .T
+T . .v  >  .   T
+T  T.   TTT. .TT
+T.<     .   T T 
+ T  T   T  . T T
+   T     .     T
+ T!       >.  .T
+T   .    T      
+ T.v T    .T .. 
+T T ^. !    v < 
+  .      <  !   
+   .    .     vT
+   !>. T   .T .T
+  .T .     v .. 
+    v.  T.      
+ .  .. .        
+Tv     .  . >  T
+T   ..  ! <!    
+T    v   T.  . T
+ ..   TT T  T   
+    ^ . >     . 
+T   .   >      T
+  . !..    !T .T
+ >    . TT. .> T
+ T .^  T ! T . T
+ . .  .  v. <  T
+  .T.T !  .    T
+T.vT . v T  v   
+T .      >..    
+ .  T ^.        
+TTT    ^ . <  < 
+T.  T        .T 
+T.    T    T .  
+T T .  .v  .   T
+  . ^T.^   ..^  
+T     T   .     
+T > .    .^ .T T
+   >   v    ^ ^ 
+Tv T.       . ! 
+       T    .T  
+  Tv v.   T!   T
+T   T T . ! >   
+T  >   v. .    T
+T       T       
+T.   . . ^ . .vT
+T.      T .     
+Tv . . T  . < . 
+T  v.        . T
+T      . >    T 
+TT  . T.!    T T
+  T       Tv!  T
+   T^  . T  ..  
+ v      .  >   T
+   T!  T ^ .  v 
+T .Tv          T
+    .   T   >  T
+   > T >        
+       > ...T.  
+T       #    T^T
+   ^T .T ^ .T . 
+    T  T !T  .  
+T    .    >     
+TTTT ..  <    . 
+T.. !^  .T     T
+TTT..  .. >   . 
+       TT   T TT
+T        ...<.. 
+T .      T!  T T
+T ..TTv^ >    TT
+TT         T  T 
+T !T  !T T  .T. 
+T ^.. ^T ..!  .T
+ ! . v     ..   
+ . TT   . >     
+  ...   ^T <    
+  T             
+ T T  ^! T  T .T
+  ^ TT    ^ .  T
+T  .T   .     vT
+TT     .>   .   
+ . T  .!T. .TT  
+TT.  T   ^T    T
+T.    T.  T  !TT
+TT T   TT  T TTT
+29 55
+T  T T TT  T      T   T TTTT  TTT TTT T TT TT    TTT  T
+T        >    !>        !                         >    
+T         T       ^     v  !   T!                     T
+                    v        >          !!>           T
+        ^                           >   ^      ^      T
+T!  ^         T                  T        <      T     
+ T     v.   T T  T           >         T   <           
+              >          v  T   >               T  v   
+  !  v    T      v                 !     T  Tvv   T    
+       !            T     !    ^         !         T   
+T    .<                 T ^   v              !        T
+T          v     T       T             !<         >   T
+  >  T                      <             >     >  T  T
+T!      <          !        T   !T                     
+T   TT!T            T > T !v   ^ T      T T        ^  T
+T ^ !  <      T                #      T !T   >  <      
+           >   !      TT   >    ! T  T !     T        T
+    T T    !TT     T           <                      T
+            T  T      v        T          T    T !    T
+T     T        T    ^   <         >  !     >      TT  T
+    <           T   !                        ^ T       
+T    <     T    T       T  !.  v   v   T            ^ T
+T                T T        T           v      >       
+T     <          >   !        ! ^   < T           <    
+T    TT!  ^         ^         ^       T            T   
+ !  T  !    ! !    !  >                !   T  !        
+  !  v   ^   T           !              TT      ! !    
+T   v T                      <     !   >         TT    
+TT T TTT TT  TT     TTTT TTTT  T    TT     T T  T   T T
+134 90
+TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT TTTTTTTTTTTTTTTTTT TTTTTTTTTTTTTTTTTTTTTTTTTTTTTT
+   T    . . .      !  !... > ..         T.  . .T  . T      >   < T. T  .T T T         .T T
+T       T.T  . T .     ..  .!  . .      .       .T  .  .    <    T                    T. T
+T.      .< T    !. .     T <.. ^T                     T        .  .!T  . .  .   > .  .<.  
+T    T      .   .T .    . T . T..            T   . T  .    .    T.    . T    .     . T  .T
+T . ..TT.TT .    .   .        .    T  .     v   .  . ..      <      .    TT   .          T
+T  >   .> . .             .  ^ !    T    ..      < .    . .  >   T   . ..T  >        T . T
+T. .    .  .  .    ...  T        T    <. T T. < T  T .  !.   ..     .   T.    . T..      T
+T  ^. . T ..T.    .  !       T!       . ..  .  .  .. .   ..   T    T ^     !  .     .T T T
+T..   <   .  T  T.....    . .        . T    T       . T  T  !<        T!      .!     T   T
+T  !.   .   .         T  T       .. T     T  .T .  ..     .            .      !..  TTT.  T
+T T     v^ TT.       .   T  .T   T T    .T   . .     .T   !  ..               ..        !T
+T   .       ! .  .  T.  T     . .T  T T         .    T !.      .  !   T        ..!  .    T
+    >         ^ .        T           T    v..  ! !      v .T        ..   TT ..     T.    T
+T              !v   T .   <. . .      . !   > v  .    .     T   T    T. . .   T >   .    T
+T         .  T     .T   T    v ...             ! ..  T        .  .          .      !!. . T
+    .v..T  ^ T .   ! .    T.    T..    <     !   T        .          <        v.       . T
+T  .T . T T  <  >   .      .    .. v   TT     ^ T T T.   .   . T  .      TT.. ..   T     T
+T  v T     T     T          .    .        > !     .   .        <     !    T. .      .   .T
+T    T. T. . .    T ^        . TT  T       .      . >  T  ^.T     ..      T    T     TT  T
+T       T ..   v    . ! .       >             .  . . T    !.      .  .    ! < T .      . T
+T T.  .    .         T .  T T          .   .. .  . .          .   .  .  T .  .T T  .  . .T
+T      !   ^  ...T           .<.  T    ! .  .                   T T            .    .  . T
+T   .              T .T     .     !  T .         .  .    T.. <  .   T  .T    T          TT
+T       . T .              T       .       .       >  .   T <         . T       T        T
+T    T  ..          T .   .T   .   .  .T   . T     ... .T  .   .T                <     . T
+T  .      .  <       T   ..    T. .      .     >  T.   ..   v.T > . .      T   ^        .T
+T    T.T ..  . ^  . T              !         .  T. T T . . .    .         ..  T..   !   TT
+T     . T     T   T.    T ..!           !    .  .     . ..   .   T..             .   .   T
+T          T   .       . !   .   . . ..             < !^           ^     v.       >! . ^ T
+T T   . . .      . .  ..<   ..    T   ^TT  .  .!      ..       .    .       .... ..>..   T
+T    .< .                 !.         .     .v    ^             .    T   T  .    T       .T
+TTT   !  ..  T.. .   T         .T     ! T          <      <      . T.             .T    .T
+T   ^    . TT   TT  .  <  .  T T   . .T       .v  T     .   . T.  ..  >.v^           .   T
+T     v   < .  .  T  ...   . .T          ..   T  T.   . .       .  T .   .. T.T     .T ..T
+T  T ^. .    >   .     ..T   . . T! .    .    T     ! . .  . .      T   ....           > T
+T .            T .               .  . <             .   . .       .      .     T         T
+TT T   ..    .   .T.T . T!  . .    . ..  ..       ^. ..      T T .   ..   .    T    . .T T
+T   !.    .  v          TT  T           .  .  >     .  . .   .  <.  .  T .  T .  .^. .  .T
+TT    T       . T   .   T     .T !.  <.       T  .     . . T          ! .   . T T   .    T
+T  >    .   .         .            T   T      ..           .   .T..T!       ..      .  . T
+T .   .       .          .   T!  T.  ^   .    T   T  .       T          ..    .     T    T
+T    ... T.   >    .  v   ^ .T    .     .T    .        !.   .  .. ...  T   .             T
+T < !   .T      .                 T  .      .     T .    .T ^     v.T    .             ..T
+T!   ..  !   .T    T        ..     >.                            ^       ..    > T      .T
+T   T  .    T        T   <         ...       . .. .     . v     .       .   .   !  T.    T
+TT T       <  .      .  !! . v  .    !    .. T   ..  T     T.   T             .  !    .  T
+T.     . T .           T .. T  . T     T ^  v.     ^      T          .  !.    ^       v  T
+T         .  v T ! .  .  .     T    T        . ...      !T ..      T.         .T    .    T
+TT. .   T     ...    . .   .    T T    . ..   .  . T      . .  <      . >    T         . T
+T      .     .T      .       .^   !     ..   ! .        >  T.     .T  . <   .. T     !   T
+T     !   .      T   .   .     T.   .  .    T   v    vT     v   .              .    ^. .!T
+T   T.                . .   T .> .   .      .       T    T .  .    .          T .     . ^ 
+T.       . .   .             T  .   ..T . T .. T       .    T.    . . .  .  T          ! T
+T                        . .  .         T   v. T    T  ^     !.. T    .  .        T      T
+T   TT        T .     > .. .!   .  .   T  ..    ..         !    .        . .   .    >  v T
+T .     >.     ..     T !.        ..  .      !  .T   .       ..   T!          v.......  .T
+T T  .      . .    .T.  . . T    TT   ^      ! v    T.>.   !    . T.       .   T         T
+TT    <     T    <   .  .                  T    T        T .    T. .  T       .    .     T
+T .    >  . T.           ..      .   T.  . .  . .  ...    T .   T             .   T.T    T
+T .    . T       ..  T.       ..                   .     T  . .      .       ...  <    !TT
+T  .. ! v   .   T    .   v  .                           T    T    <       .    T         T
+T  ! T   T   ^     T      T   . ..  <   .       .           TT   .. .  .. .   !> ..      T
+T      T         .                     v   .    . ..       T!!    . .T   T  T          T T
+T T  .^   .  !       > .  .     .T T .    T T     . .. !  . T . .  .       .  !!!       .T
+T     .. .T     .   >      T      .  T .    .    T   !            . T           T      ! T
+T  > TT         <    .     <       T  !  . .  T .  ^   <     ^T..  T  .T        .v.  T. .T
+T .  .  .! . ..T   .T     ..  Tv   . .T .. ^TT       T    ...   T T    T .  T  T.   .    T
+T      .  . .< .  .   TT < ..     < .                 T   vT        ! T   .     v  T  <  T
+T^ v . TT  .   .  ^  !     .  T    .  v .    T  <     T     .  . .  T T   .  T   .       T
+T    .  !  . . ^  ..    TT       T .     T T T     T   T.T  T    T   .          TT  T   .T
+TT   ^  .              . .           !        T   .   !     .                .!       .  T
+T   . .   T .  ..              T      T  ...   !.       .             T.   T  T         TT
+T    .  T^  ..  . .    T  .  T   > ^ T  > ..  .T     .  T      ..         .  ..   .    .TT
+T.  !  .  .T  . .T          T       .  T   .     ..T TT           !     <         T T . .T
+T    ..   .   .  .!. T .        . ..  .           .  T   . T <  <  T.  .   .            .T
+T  T        T   !  . T    >  .T . < T <!  . .         T TT.T  ! .    T. > ..>. . .  . T  T
+    .       T   .   !   T.   !  !  .  .   .     T .     ..  .<   . ^. .  T    T     T  . T
+T <      .     .  . ..               . TT    .      <..! .  >       .          v !   .   T
+T   .! ..v . . .   .         .  . .  T   TT    . ... !       .  T  . .   .       .. <    T
+T           . T              .  T ..    .   .        .         .  .          >    v . TT T
+T  .               !T  .     .        T   ...  .  . .. .  .    ..   v .^ .   T  .  .   . T
+T                T               T..        . T    .    ..  .    .. ..  T     .   >  T.  T
+T  .   .      T      .    .  T  .TT         . T ...v    .   ^     .      T! .    T  .T   T
+T TT     .             .<.  T.T    .         . Tv  .     T .      ! . . .  ..      T. .  T
+T. .           .  .      .. .  .  .. .. .       .        T  .      .    ! T    T  .   .  T
+T.T .<   .    .    . T   !      .    . v  ^  T      T       ..  .   v   T T.         .   T
+T   T .         .  . .          T   .  ...     . T    T.    ..     T.    T         >     T
+T  ..           > !.   . .          .    .    .   ^.      .   ^.   <.  .  .   .   ..    .T
+T  T   !T   .    T   !  .  .                T   .^    T  .. .  T.!                .      T
+T TT          >     T     .vT T    . .       .  T   .   T        v   .       ..  ..      T
+T     !.   !  . >   .  ..   T!       !..      .  .   T     .    . ! ..   ^         !  .TTT
+TT     >  . .   T.  ^ T v   .    .  T.. T . . ..         .  T.   > .       .        ..  .T
+T        . T.  !     TT          T.   >.. .    T   T    .    . .             v >.     .  T
+T            .      T                 .  T  . v  .  . .  .  T T.T  .   T        <   >.T TT
+T    .  T  .   .  T  ^.. . !   T  ..T       <     . .   .    !. . T    T T  .T    .     .T
+T. .     ^T     v !   .    .TT >.  ..       .          .  .   T T   .   ^  T     T   v   T
+T T    T   . .^     .   .  .    T  .. TTT T  TT    TT   T  T   ^     >    .          .   T
+T                             . < ..          . T    vT !     T.          <     T        T
+T        .  T.  Tv  . T  !      .  .   .         . ..         !      T         !        !T
+T    . T  . .      ..TT            T  T   T <    TT .   . .       T    ^         T   .!T T
+TTT  .!T  ..    ! T      T  .   T.    T     . .      T .  T ^ T  . !TT     .       T.  . T
+  .    !.     .        T.     . .^   .   T.  T   .            >          T      !T..   > T
+T         .     ..  T.   >   . T^  T  .T.    . .   .T  T     .  .  T    .   .!  T. !     T
+T      T .  . .     T         T   .T  T     TT                 .       T                TT
+T           ^               .     . .    .  T     T.>  .     T T T    .TT        !       T
+T ..     .     T T! . .           T       . . ! <           T!!  . . .    .  .   T       T
+  . .T    .T  .     ..   !   .   .        ..       . . T    . .  T         . v  T.  . .  T
+T      !> ..               T   T   .   T   ! .v       ..v.        .T     . ..       ..   T
+  v     ..v      . .        .    .  .             .   TT    .     T vT  >              . T
+T    .!    . T.     T   .!    ^     T..T... T        .    !.T                 .  T.   >. T
+TT .              .T      .            .> .  T   .     #.     .< .      .T T       T     T
+TT  !      .  T                      . .   . T      T   .   v        .   T    ^       .  T
+T   .T ..  .      T            . >    . .   .!       .                      .            T
+T.. .        T T   .  .   .T .  .T  < .      .         T   .   . .     .   .  T  >.   .  T
+T     !       .   ^     T     >     .    .. T   . .    T  . ^  <.    .     T T T    .^T  T
+T^  . T   .    T     .   >    .. v! .      .   T .  TT   .       T T .T    > .  T   . . .T
+T       .          v T    !                 ..             .      v   T.      !     .T! TT
+T     T   T   .   .!T  T TT .   T     .   T     TT.T  .    T    >          ..          T T
+T. T     .  . .     .!    . >   T         T  ..      < .   < .. <..  !     .    T .. .   T
+     . .      ..   < .  T   .T.       T      .   .  .     T     .  . .. .    .TT .  ^    T
+T          .T   T.        T    v    . T ..     . .    Tv     <. T       .   T    .       T
+TT.T   .     T   T  .   .  TT   .      .  . .            .  .T    .. ! ..  ..     .  .   T
+T..T      .   T T      T    !    ^T..!  T T..    T     TT.   T.                   .  ....T
+T  !.      . ..    <   T  ..      T      . .        ..    . ..  T ..!   .  .  T  .    T! T
+T    T   .   T! v         .   T.   .T .  . T        >  .        T                 T      T
+T  .T    T         ! .  T                 . > . T.          TT           !.              T
+TT.  .      ..  T.   T  T. .. v.   .  .  .T       .      . T     T     ..  ..  TT!..  .. T
+TTT   .          .<      T  .         T   .  .        T  ^T.            T     T .. .     T
+TT  < .       T       T                > T   T   T  T   .     .   T . ..> . T T   .v   .^T
+T         ..  ..                 T          v     < .^ . .    .T  <.    .     . < !.     T
+T.               .  ..T     .     ^      .    T . ..v.. !      .            !.    .. .   T
+T      T.         ..T. . .      >. T     . T   T  T.  .   ...     ! T                .   T
+TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT
+11 115
+TT TTT  TTTTTT TTTTTTTTTTT TTT T T TTTT TTTTT TTT TTT TTTT TTTTT  TTTTTTT  TTT TTTT T TTTTTTTTT T   TT TTTTTTT    T
+T >  T         !    .!  T     ! T           !        !. ! . .        <          .  >.        !  .  ^        ! .    
+   .     .   .    !.  ! T.        .!!    ! !!  !   <.   . ^.     .       !        . .            v     .  .   .   T
+    !   ^ !           v  .     .  !   <  !  <   v   .  !  !    !  !  .^ ^ ! v . !   v          T    .  T T.    ^ . 
+ v    .!         ^  .      ! ! .   !v <       .  !      T!  >     !  .            <       !>.     T .    >   <     
+T  ^   >  v T   .       .>!.  !!  T.!  .   ^                ! !T <   !    <.  <.v T     !     !  .    <  !  !# !  T
+  ! !      T   .  vv            . ! .    T.      . !   T !   .       !   .  ! .      !      <  < v >           > !T
+T !  . . !  <      ! ^ >       . T    .            <!.     .  !!v. ^   ^! T   .    T   <    <           ^   .  .  T
+Tv    .  !   ..    !    . !>   .T    !           !   ! !  !>  .          <    >              .       >     v      T
+T.v      .   !!     > .     T . .   !   .    <      !!         ! !     >         .       .      . !     !   !     T
+TT TT TT TT  TTTT TTT  TTTTTTTTTTT TTTTTTTT TTTT  TTTT TTT TT  T TT TTTTTTTT TT TTTTTTT TTTTTTTTTTTTTT TT T TT   TT
+97 8
+T   TT T
+  <    T
+ !   .T 
+T     ! 
+ !.! !  
+ !! ^   
+        
+T       
+        
+   !  T 
+ >      
+     !  
+T .     
+   !  < 
+  !     
+  !     
+  !  ! T
+T !  ! T
+ !   v  
+       T
+        
+  ! !   
+ .   !  
+    v   
+  .     
+  <     
+   ! ! T
+T !>  T 
+T       
+      ! 
+T     TT
+        
+      . 
+T T     
+  ! . !T
+        
+   !   T
+        
+   ^   T
+  T    T
+T       
+T . ! vT
+T!  .  T
+  !     
+   >  ! 
+T     ! 
+        
+     .  
+T!      
+      ! 
+T     ! 
+        
+T    !  
+ T #> ! 
+T   ! !T
+T   !   
+ <      
+ !    !T
+        
+    ! ! 
+   !>  T
+        
+    !!  
+        
+   !>   
+    !T  
+    .   
+    T  T
+ !!! T T
+   !   T
+    !   
+      v 
+       T
+ T      
+ !    . 
+T!  !   
+   !!  T
+ !      
+      ! 
+        
+   !!.  
+T       
+     v  
+  T  .!T
+   ! .T 
+       T
+       T
+ !>   !T
+        
+      T 
+T   !   
+       T
+  T     
+       T
+ T !   T
+    !   
+T     TT
+139 70
+TT            TT  T    T   T       T         T    T T      T     TT  T
+     ^.    ! v     v ^^  !!!! ..      .!    .        >  v <    T     T
+     . .!     ..v .!   T^ . >  .v . .T >    T   > .    > ! . .. T     
+   !.! !!    .T^ ^  . ^    !T   ! !   T       .>  T !!   TT  ! .. v ! 
+ > .   >!.<       . .     >   ^!. T  .    ! < . T . T. <!   .!v^^ !   
+ ..v    ....T    !.    .>.!    .  > .  ^ .    !<!!.    ..  >.!!..v !  
+ ^     .  v  !    .   .       . !<    ! T       . <       >!.   ! v   
+ .  !! > !  ! !      .   T.!  .   .>! T    >.  .       . >! !  >   vTT
+T !    .  T     ..    !    >    !       .  <  ..     .>.   . .      .T
+ . !.      .!!!T!   > v . !  .!   ..v     .>  .^   !    !!!    ^ .  v 
+ >   v.!T T!  .      !!  ^ !  . T  !.v!!! !       !<! vT         .    
+       . > !  !>.  .!     .vT v .<.    ..   .  . .       !. >!  .!!>  
+   !  !  !T!  ! T!.  .!      T. .   !!!    .        ..!  . ! .       T
+ . ..<.    !<  .         !! v        v!   !  !^   !.  .     ^      !  
+   . !.  T     ^ v .   . .   !      !!  !  < T...  .!  ! < !!.   !    
+    . .  !. ^. !. . !  ^..   ! T v!      . <  .. !           ! . .T . 
+ ! T  v   . .   !.T !   !v <      Tv . T <   ! T .  .   !. .T.  !! !v 
+ .    ! v    <  .!. .  !     ! .  .    T  .. !. >.!  .  v   ! T     .T
+ > !.  !    ! > T !! ^ ^  >..  v   T  .       > . .<         <     !. 
+   .!  >  T!.. T!    .^   .  .T . !   .< .  !     .T      ..    !   ! 
+  .  > .   T      .!!     .T   T ! .  !  .  .   !  ..^       .  .  T. 
+ ^T >     .    !!    ! !!  !T   !    T     !        . .. >!  ^      ! 
+   !!T T   T   Tv T.  .  <.!      .  !T..          T                ^ 
+     .^.> !    ! !..   !!       >!     T . T .T .  >    !  v^      .. 
+ !       .     !T .vT .  ^  .        .  ! ^!  T. T     ^  T!    . ^   
+ ! v  .!< .  .   . ..          TT        .     vv    >      . T       
+  T  T    T   . .! <   >        < Tv.!   v T  ^! ^!T   .<   .     <.  
+  .<    .T .    >       .      .   !    . !  v         > ..v..  ! T < 
+ .<. ^   !     !!  ^ ^ ^  <  .     .  v  .        .  !. . . !    ^    
+       !.    !!  ^.   T   .!v T <      v <   .^ .^   !  !  .Tv! ^  .. 
+  !  . >    v..   T!.!.  ! . .     >!      !         T ..   .  T  !<  
+   T^ ! .!!T.^ !   . v ^  v !  ^ TTT   T ^! ^.  <        !<  TTTT     
+T.TT  ! <   .. ! .   .     T T !  ! T      ! v T!  !     < T        ! 
+   T!  .T >  . < . !       <  >. > . .    >   !. !^^!.      >    >    
+Tv  . !          ! .     ^.  !T . . .   ..T.     ! !.T ..   T       . 
+    v   !!  ! v^ !  ^! >!! ! . <  ..T       !.>! ^     ^v!   ..!!!  vT
+ <      .<. .    T  ...   !   !!  >.!   v !  < .   .T .. v  >         
+     TT!!   .^  !     ^  .  > .        ^     . !v .> T! T!!.!  .  .!  
+ .>.  ! .  !T ^ .  .T .  T! T T^.   .  ! v^   !    T.     ..>    T !  
+   <     T        ... !. . v! !. !  <.  v       T !.. <. ^ .  . . T   
+ ^  .    !T      Tv       T !^ T ! <  T   . < !     v          .  !. T
+ ! T. Tv T.   .      ! v  ! !     !<  !>...!   !!.     .         >  > 
+ T! !..  .  T T  v     .  . .  > ! !  !T   < ......  ..  !  ..        
+       T^   T     !.  >.! . v !!  !   T.TT  ..!. .!T .    .>     .  TT
+   .          .  .      . <  v  .   !      ^!   .....! v  !   >.^ !   
+ .> .!v !T     .v. .  v   .<     v ! .    !.       >.!.   >  ! . !.<  
+T >! .!! . .v   . Tv   T ..        T  T  ! !   v >!  ! T . >  ! <     
+  ..    !.       T !T     !  . T   >     .     .   T  !.        <     
+     ^.  v   . ^T   .!.<.     . .! .!   >  .  ...   .     v^ T        
+  !     .    .T  ^    ! !<..     .    .  . .  v .> ^  .   . ^ >.      
+ . >  !<!     !<   T!   < T.. T   ! T T ! v.   .< ! !    .>    !! .   
+T  .  TT .!    <   !    !  >  .>.     <  . .  !  .. .               ! 
+    .<   !  T     !^ v ! T     T...T   ! T . < .   ! !   <     .!. T  
+  TT           >.T.     .    .<.  >  ! < .    ! ^  !   .  !    T!.    
+  ! v .    !   .   .   v  ^vT   !T  !    >    .T.  .^.  .   !T   >!   
+  T  .   .  T TT        v   T   !  ..   !<  T ^.   ! TT     ! ! > T ! 
+ . T .     ...!.!   T .        . ! .T.v.! .< .  T  ..>  .             
+  . .  < T !.^       <  . >  .T Tv v ! . !.  ^  .! !   .<       !.    
+   .  .    !.! !v^!    .  !       .!.   v         v .     <. .  > ..  
+    !.  <      ^  . ^  ^^! !T  !<!!  T  .   T.v   .   . < ! !. !      
+  !  !    ^  #. .T.  !  . !v.!        >  !T T.  .  .>!   > .  !   < v 
+ !    v     .T    !.  <.  T   !.     .  .   !   .       .  v <  ! .   
+ .    !  T    <!! .  T  !    !    ! !^^!.T     > ! ^           ! ^    
+   ..!.       !T   .   .T   <  >.        >  !.> !.. v .<   . ^   .^   
+ >.T   !..!>     ^ T  .!>  ! !.    !.. !T  !.. .  .   !.!..v. TT      
+T! !T >     !.! . .  T      . . < v  <! !  !< v   T T T   . ! <  .<.TT
+ v ! .  !^         ...   ..!T.<  . !. <  !T            .  .    .  ..  
+ . !    .... !!    Tv!  .       ..          <.   ^ . !.   !!T  v T .  
+T  . <.! T  ! T T ^     !.     !   v ^  !^ !  .  !!   !  T   .  ! .>  
+ !  T <        >    ! !!. T T. !    . !   ! >     .  .  T . !   < !   
+T !. .....       !T !  v    .  ! >   . T     T  > .> v .   !!      !  
+   !T  .!! T^!  T  !    !  ^ v^ !   <     ^T.  .   !  .! ! !  !   ^!  
+T!v    >   ! !.!!      .  ^    .Tv  ! .    .      >.  <  .  !     .^  
+ .       <.  .     .T  !.  .< !.   .^  >.... .      <. .  ! <  T    ! 
+T < !T! .  <  ! v    ! .   .  !   . !  !     .^! . .   >  .      ! !  
+     ..  ^  T  .! .  .   ! .    <!!   T <.!!!!!   ^  >     v T      TT
+   >  .  .  >  ..!        !  .       >  !<   !T! !!T!     ^.    ^  .  
+ T !.  !    ! T!> .^!^   ^.. !  > !!..                   .   T     >  
+T! .T .. v    . <!  .. ^! T..     < .!  !    .  T^.      >    T  !.T  
+   .   .  T T.      v!  TT ! <  !!. .         ^     > T   .       ! > 
+ !.   .!    !  v    .  .  !  ! . .  !       .. vv  .  .! .!  T .^   > 
+  <   >   . T.   ! v! . .   v   .T  .. <  >.  !. T..        .    ..^  
+   !  <  ^.            T.      v    .   .      !   . !^   > ^  v ^ !. 
+  .T   <!! T   T .      .<    ! v .      ^  < !.> ! !.. ..   ! .! ^   
+T     T . . ! ^! . . <      > .    ..vv! ! T. .    !^. !<  .  T !.  ! 
+  >   .!  <!^   ^ v    ^.TT  T !   .!.  .  . .T .T   T     v^  >.     
+    .v !.>  .  .    . ..!     .    T^ !    T    T .T  T    !    .   TT
+  . !  <  <   ^      T < !  !v    > ! .^.  .!!v . T v!T           ^ . 
+  !!>  . !<   .  Tv ..T T .v         <    ..v   !   !v       v  . !.  
+   .. .     v   .    ..T  T  .  <    .! .       T      .. T   !  T.!! 
+T!.! ^  ! v   .     !T  !> .         T!   .T  T.. < ^    .   !!       
+ v  .  !  .. .!     > v !!  !  .  <   <      !!   T  . .  .!  !  >    
+ ! !!.^  ..   !>  . .   !!!  !    <   !     v..T  ! .  ..!  .     .!> 
+TT^ !    .. !    ^    .v  .    v    .!> .T. !.  !     ^  . ^  T    > T
+ . !^  ! . ! ! !v .^ .     ..      . .      .T .    !        .. ! T . 
+ . v   .  .     .     >    T .    TT ^    T  T !  !< ! !   !.!v^   .  
+    ! ^  ^  !    > TT T !    T  T   .. !<  ^  TT!> !..  .  > ^. .!<  T
+ .       . .. . <  .! T.^.!.<!   ^  T   .!   v!       v  ^..    !.    
+T  >       <    !.!!   ^.T       !!! ^  v .   T !>. T .!v.   !   !.>!T
+  > .  . !   ^  <.  v .... T.T!T  .     !v  T!      .  ..  ! <.   .   
+ > > . !.     v       < T  ! T! !!.< .  !   > T    T  ! !..!T  <!^    
+   T!>     T.T    ^T !T   .>     !   T    .         v    !   ! . .   T
+ Tv!   Tv!.           !     .T .!.T  <. .^  .  .     .    ^ !      v< 
+ T     T   ! T!.     <  T   v .!v  <  !.  .           . ^v .TT. !^! ! 
+T!<.! !  >  T    ..!          ! ! T.   < TT . v   ^   !    .. ! . .   
+   .<!.  ! T    .   ! .   ^  !   > !      ..   .  .        .    <     
+   !. v v   T!.. <     T. !T^ <      !! .!.. T  .   v.     ^ T.   T   
+T   .T..       <  .T!         ! ! !!     >!T  T   !^   .   ! T. ! . ! 
+ .!        v              <.   T.<! .T  .<!! >  !..  T     .    v   > 
+     T >  .  .T  T  . ..   >. !   . . >  T.  .  .!!   . .< T          
+       .     v     >. <    !   . ^v  !     <. ..  .  ^ >! !! v !    . 
+ T    !       . v.    .  .  >..        .  >.     . T^     .....  >   T
+T T T! <         .   !T   < ! . . <  .v.<   . > .T  . T v   .      <  
+ !.   . .v.  !!   !  .  ^ .<    <!. !.   T !       .!   .!     !      
+    T!vT  .^T v. v!^ T ! !T.   !. !   ! ! !    .        .     !  >    
+T    .  .!. .    .    !  !.   . T  ^ .  .Tv   < .    .v .v . . <   T! 
+ ..  ! T   >   .!!     ^! T v TT      .          >    !     T.  .T  ! 
+ T <.. .T ! >        .^ .v  .    !   .^  ! .T        .!TT!  >   v.    
+ < T!v    . !T  T .     T  <   !!   !    !!!!>  . >   ^   T      T.   
+ !    v^ T.   .!!>     >!! T  T  >!  .         .T   !    T   .     .  
+  !.    ! v  ! v  ! .!!    .T   !TT.!      vT  ^ <.         <      !  
+ > .     .  !<   T    T !  !    !.!     TT  !  ! !!   .! !       .  . 
+ .   v.      T ! > ^        !! <!  v . !!       >  T.  ^     ^!^  .   
+  .   .    .!<   .  !^ !             !    . T^  >  T T !!!  T   .T    
+T . !    >. .   . !T!  <     . v! >  .  v  !  . !    TT! T  ! ! <  T T
+  T !  . >   . .<! ! <      !  .  TT.!  !^. ! > T   T T T.T^  T.T . > 
+   .  T..   ...      TT    v   Tv.    !   !       T     T      !<     
+ .T    ! v!!   .   <   v.  !  . . .^ .T.  > . T v  T! .v  . .     T ! 
+T T!.T!v . ^v  v T    .! T!  <  T  !   !!   v        !  !  .  .. T  ^ 
+  .!     .  . T v!   <. > .^T       .>    TT    .  .    >  ^  T ! >   
+     .> !.   T.  .! >  >     >.  ! .  !  .   .  T v  . .       v  .   
+  T      .v.!    .< .  T     T !T ..^.!.     .>     !     !  !  ^     
+T <  . v.v  . !      T  .     .  .  !  > . ..    ...!<!  !   >  ! .  T
+ .. .    . > v <!       !  >  .!   T >   .^        !.  ..     !.      
+ !   T. .<  .  . v  . !.T     .    .!..      !v       .v <. . . T! !  
+ .T  T     . !  !  T .   .T !  ! !          !.. . .  .. . .      >    
+    !  !v!<     .!! !! ^  ..!!. T T  ^  T!!< .!    <    >  <  ! ! !   
+   .   !.!T T .!  T      .  .  !  !> . v   <  ^v . >  v <..      .!!.T
+T TT   T       TTTT    T             T  T    T  T  T     T    T      T
+26 24
+TTT TTTT TT  TT T   TTTT
+  !     !   !.   T T!! T
+   ! !..!!     ! !!.  .T
+T ! ^!  !!   !   .     T
+   . .  ! T !  . <  .   
+   ..      .  .   !! . T
+T    ..   !. !!   .     
+   . .!!v ! .T   !!  >  
+T  !.         . !     .T
+ ..   !  .!   #!  !     
+  ! . !vT!!   .! ..  !.T
+ .   <  ! .      T T .! 
+T!    ...           .  T
+T          ! .  .! .  !T
+T  !T .!   !!     !  .! 
+      T ! .  ! !!!!  !!T
+      ! .   !.T   .    T
+ ! !!  .!  !!   ! .T  .T
+ !..  !.     .         T
+      ! ! !  T   ! ! !.T
+T  T v  .          .    
+ .            !! .   . T
+  T    v   .!T  T! !!  T
+T...!     . !  . .. !!  
+ !! !   .T. !!.T  !  ! T
+TTTT  T  T    TTT TT T T
+72 7
+TTTTTTT
+T#!   T
+T^  T!T
+T    TT
+T T v.T
+T. .  T
+T . ! T
+T .   T
+T ..! T
+T T   T
+T .   T
+T! .!.T
+T.    T
+   T  T
+T  T.TT
+TT    T
+T  .T T
+T ^   T
+T     T
+T  . . 
+ >  ^TT
+T  v  T
+T   . T
+Tv . T 
+T     T
+T!  ^.T
+T  T  T
+T    TT
+T   T T
+T^     
+T !  .T
+T.   !T
+T.  < T
+T   T.T
+T T  !T
+T   .TT
+T   T T
+     .T
+T . .TT
+T  v  T
+Tv   !T
+    T T
+T    TT
+T ! < T
+TT T TT
+T     T
+T    TT
+TTT . T
+T. .  T
+T  T. T
+T  .  T
+T T . T
+TvTv .T
+   !  T
+T.>   T
+    TvT
+T ^.  T
+T    .T
+T.   !T
+T  <  T
+T .T  T
+TT  .^T
+TT .. T
+T. v   
+T .   T
+  ^ < T
+T!     
+T  .T T
+T.T > T
+T  .! T
+T    .T
+TTTTTTT
+107 82
+TTT TT TT  TTTTT TTTTTTTTTT TTT TTT TTTTTTT T TT T TTT TTT TT TTT  TTTTTTT TTT T T
+T  T .    .!    v  ..  ! <   ! !              . !   !      . . T!   !  . .     .  
+T     !   !        .! . ..   .!   .    <   !. <      <   . ..  T!  !  ! .      ..T
+T !    .   . !   !  .!    .  !  . T       !  TT.  .  !    .!  . .     .    !  . .T
+T !! !     T !...  ^   v !!       > .!      .     .    ! .         .  !.  ! .   . 
+T!      . !!  .!. .!!  !    .   . !   T.!!   TT! >   ^ . ..   >  .   .      !  .^ 
+  .  !.   ...   T   !.     .   v!  > .               !   . !   .    T. .! T   .  T
+T .T .   .!  !   ! .>!   ^ .       . ! !      >.   >!.  ..! !      T   .! .! .! !T
+T!   .   .  .  !  ... ! T   ..<  . ! !  .>          !   .!   .T     .. >!    .   T
+T  !    .   T.  !    .!  .   ! .   <! .. . !T     .!   .    T!  . !!T  .  !!     T
+T. ^  >! !.!!!!    T!       .  T      !.       !  .  .   .. ! T   v           !. T
+T  !. .<   .  . !  !  .     .. T.    .!             <  >     v !    ^   !.   T.  T
+T. !.    !    !.   ..   .! !..  !  .  .  !  .  .        !            .!      !    
+T!.  . <   .         .  .   !   .!v T!     . . TT  .v   .!. !  !       T . ..! . T
+T !. v.   T .  ! < T!    . >   ..      !         ..T. !    .. v ! . >   !        T
+T!     ! !T!.   .      .!   !  !  >     > .. . !T  .     !   ^  T!    ..  !!..  !T
+T  .  .   . .    .  .!T   .     ^     ^ . !.!  !   . .!  ^ v   ^.   T .!.!  .   .T
+T        T.        !   <! . T!.   . .!     T.  . !  ..    .   .   <.T.       !   T
+T.>! .!  !!     T  .  !      .! .  .   . !.!..     .T.  !    ^..T..   ^  . !      
+     T  ! ! .  .! !  .! .  T  ! . .  !   .<.     !..  !     ...        !..T      T
+T...!!..  .   ! !       <!.  ..      !    !   !       .. .T!!   .   .  !..   T  !T
+T .!    v   ! T    v  ! .! T.!. .  .  T.T..  .    . .     . .T.!!  . . <     !  . 
+T .     .!     .TT. !! .. !! . .  .! .!!!    . ..!!   !         . .! . !    ! .! T
+T! .! .!.. . . .   .!.  <      T.  .      !T !         !.       .. .v .T..      !T
+T ..  ^. .. .T .!! .                !. .    ...!!.   .   .!  ! !. .!   ...   .!. T
+T.    .  v.    !  .! .       .! >      !  .. ^!! . T ..   > . .. T ! .  T  !!    T
+T  ^  . ! . ..   ..!           . . !    .    !! !  .v! T !.   .  !!!! .... !   . T
+T!   . >  T  .  .   <  !   . T .       . ..          T!     !!^ .     ...  . ! . T
+T     !. !  .    .      .!   !  .         .   .     .!.! ! .T.. !  ! !   . .    ^T
+T!. . !   !    . . T.       .!.  !  ^     . T   ! ^..  ! . .!   ^ .!   v.Tv ! !  T
+  !     ..    .   !     ..  .<      .    .!  !   T .   v  .     !        . .   .  
+T     .   . .  !!. .        ..  !! !     T    . T.   .       T      .      Tv!..TT
+T! T   !   .      .    T!  !!!        T! !. !    . ..   !!.     !   . ! !   ..   T
+T ..  !.   v !  >!  ..!    . .. TT .! !  !. !   ..! .   !    !.  !. .      ..^.!  
+T.            .!.      !     .!. T T .  . <  .  .     !  . <!  ! >.            . T
+T  !  .  . >! .. .      v    ! .v.   !>!.. .   T.       !        ! ^   . ! !.  . T
+            !    .      . < ..    T   .!v   !  !  .!^  .T  ..    ! !  !. . T  .  T
+T   !. T  >  T  .        .    !   . .       !#! !! .!         T .        !.T   . T
+     .  .  ! ... !.      .  ..!   !   .     .T    . !   .    .     <..    ..! !   
+TT .  .!>      < v T .  .  .!  !..    .  ! ! >  .. .  .     ..  !    .^      .  .T
+T ! T!     . T   !!     T  ..    . T ! T     TT   ..!   . .T ! .    .     !   !v T
+T   !   !.     .     ^!!.       ^  !!.        !  .  . !  T      . >  ! .. v  !v.!T
+T           v   !!  . !. . ! !        .  .< vvv   !  !   .     !  !  .  .! .  !  T
+T. . !  v . ! !   .  .    .>   .T .! !     T!!   .      ! ..  v. .   T     !    .T
+T!   ! !     !  ..  !   .!      . !   ^.  !     .         !. ! ^ !    v.!      .!T
+T..     .   !.  <!! !T..!  !  !     .    .! !   !  .  . !  !   . .. . .!   . .<  T
+Tv  !       v  !   . > .T!.  ..!  T . !  T. !T      .     .. !.    .    .  .     T
+     .   .   !    .> .  !!   .!    .T  ! !  !...v.  .      .  !. ! .   T   vv.^ TT
+T  <  .  !.  .  .! . .  > ! !  .!.  . T. .  !     .  .            v!! !T  !   !  T
+T . .!!    TT  !  .     . ! !   . ! T   .  .   ! ^!!      T.T.!  !.!  .        .< 
+T .. . .   T  !v     .  ! ^.   .   ! . ^.     ..! v   . ^..     .  < . . !   !. . 
+T .            !!   !          .T !.  .  .      ! ..   T   !         . . !  ..!! T
+ T   !       TT.  . !  !.        .        .    .   .  .   .   .  < .!^    !!   ..T
+T .! .  !.!!!  .  ..     !...     !  .!        !!. T.  ..v  .  !T!  . . !.  !. ^TT
+T     ..       !        !  !<   .  .    ! T   !.  . . T    !  ..    . T.!T .     T
+T!^ !            v! !!.    .  .   > !  !^ !  . !.  ...!! T.!   .  T.!! !  .!     T
+T.. .!! .  ! .    .   . !   . ... !    !   !  ^v.!      ^.!. .     .!      ...   T
+T  ^   !  !!   T .! < !  !!T!       ..!! T .T.          !     !   .T T.    . . !. 
+T.    .     .   !.   >  .    . . .    .    . ! !   ..>.  !      v! ! ! !  !   .  T
+T   ^!.     .    !    T. ! .   ! <  T! !! .  ..^.!.       v .T  . . .            T
+T.          .. !!!!.        > ! ! >         >.     .T   !...!!    ..      !  v   T
+T  !...   . ..     !  !    !.  .      !    . .!    T..     !   .. T .      ..   .T
+T!!T.T .^  !       . !      ..v      .!  T !   ... ! . v    ! !! <  . .           
+T    !! . !  < !       !! !     . .v   . !  . ! ! . ..T  !     .  . . .!    ..   T
+T !    .  .   >.   ! ! !   ! !!! !  . ! .    .   .  ..   <   .   !   ! .! !    . T
+T!!  . .v     .   T!   .  .    !!.!! T  v  T    ^. .  v.!       !   . ! T T .!   T
+T  . !   .     .. !         .         T    .   !  .      !<     !.< T!  !    !    
+T  !  .  .!    v  !.     !!   .! .!    .    !    !  v    .        T   ! !  .<  ..T
+  !T!!   !  . T!. !   .!      T .!   ^! !  .>!  . .       ! T T !   !  <!.<   .. T
+T! ..    !.     .!  .  ! .  .       .  .   ...T!! T .!.     ..   .        .  v.!! 
+T!!! T    ..   . .      !..   .. . ..!  ..!.        ^       .! !.            .    
+T  .    !^    ! v     T      T .T        .  .      !!!    .  ! .  !  .     . .    
+T. !    .     . !.v ! .T   !   .  .   . .  .  !     !.!    .! .   .. .        ...T
+TT !  !.    T !   .   !.   !    ! !..<.   !! . .     !.      .  ! .  . .    !    T
+T !    . .  !..  !.    .. .     . < !  T    .  !      .  T       !!       .!  . ^T
+T.  .T !!  ! .     !. .       !       .!    !     ^   .. ! !! . .   ^ .v.  <  .   
+TT!>   .  ! . T. .!  ..     ! v !   T   >  ! !  ..  .           .   !  !  T . .   
+T. .  .  T !!!..     ..  .>..    . .! .!  .         .T  !T   . .  T    !. >      T
+      .    !            !   .  ! !! !  .! ...!.   .    !!. !   .        .! !   !  
+T   .     . T        T .        ! .!T  T..   T  !   ! .         .T!  !  ..!!  . !T
+ > . ! ...  ! ..  !  ! T ! !           .. ^!   ..  !  T ..!     !   !. !  .!      
+T   !     .! !!  .. !.   > !!>!.T. !v  T   !.!       !T   !! . ! ! ..  .. .  ^.  T
+T        !.      T .   ..    .   T!    .   . !>.    . ! ..    .             T    T
+T         < . !   .   . !T!     !.  <    !.  . !    .    T.! T   !.              T
+T !!  .   T      T   .   . > . !.   .  !    T  ..    <   T  !      T   ! !  .    T
+ T  .    ..  T  .  !!.   T. .  .     ..   .      . T .>     ! !  T  ! !!    <.  !T
+T! TT  .    .       !    . .  T !!    !     ..! !   .  !.!  . ^!.>. < !    >   ! T
+ !  . . . .! .!            T..!    v  .  !!               T   .    !   T!     .. T
+T    ! <    .!! T   .     !   !   T  . !    !.!    !  .! .  T T!T.T! !.  .T   .  T
+T  > v!.    !   T      .  !     T     . !  .  .    !^  !T .! !  . .!  !!.    ..T  
+T  T!  T!.     !  ^ .       T ..!    .!.     !T   !  !  ! T.!  ..  !  !          T
+T   <  !   !!v     . . .   .       !^         .       . !       .!             ! T
+T  .T       T ^ !       . .  !  .   !. ^!      >     !           .  .<  . . T  ^.T
+T    !  ^  .     .   >     !    . .   v T  !v.  T!T.! .  .   T .   .!   !  .    ^T
+T >.!  . . . !  .   <  .T    .      <          <        .  .      !       T!  T   
+T     .     . ! T.            <!       !      ..!! . T . !   .    .T  . v!    . .T
+T !.!.    ^  .  .      .T .!.   . T.      . .    >. !  v  .   ! .  !.     . !.  ^T
+T     !.. !.   ..      T   .      .!!     ..    >  .^  . .  T   !. T   ..  > .T. T
+T   .      !  ^ >   < !  !     ^ .       ! !       . !  !. T..    ! !    !! ! >   
+T     !   .  !    >  !!  !       .!  !!  ..       v  T  !    .    .!!    .!!!     
+T   !!  ^     .  .  !.  .    ..     !   . .  T!  . .!..  . T ! .  ^!!    ! T .   T
+T .    . .! .   .  . .      . T.!.   !  .  . !.! !      !..!    T    .!  !   ! T T
+   !T . !    .    .     ! . ..!   .T            !  .  .. ! !  . < .     .   .    T
+T  v !.T.     ^   !!v  .   !      !  T      T !      .  ! .!!    T   !  T.!!!.. ^T
+T !.!     ..   !   T!.T  !       ! >  .!.         !! .! !. ^ !T   .   .    !!  ..T
+T.  !  .!. !   !    !  !     T.  !      !.      !T          .           .  .  .  T
+TT TTTT TT T TTTTTTTTTTTTT T T TTTTTTTTTT TTT T TTT TTTTTTTTTT T TTTT T T T  TTTTT
+10 101
+T TTTTTTTTTTT TTTTTT T T TTTT TT TTTTTTTTTT TTT  T TTT TT  TTT TTTTTTTTT T T T T TTTT T TT TTTTTTTTTT
+T.  .    !      !                   T           .      . T   ..!    .  ..     .! < ..    .   TT     T
+TT               T . !     T!         T   .    .        !     .! !   .   !          .   T ..     ...T
+T   !!T. !      T    .     T       T    .        ! T   .  v  .  T      !   . .  . !     !  !..   .  T
+T      .!       !   .    T   !                     .             T#<   !    !             .    T !! T
+T. .  >     .   . !   ^  .       .!   .         .    .T         . !         !!!     !       . T     T
+T  .! !.       .!     .      . ..! ! !. . .   TT         TT    !.     .. .     !      T   .         T
+T  ! .. !.       . ..  . .         .  v                          . .     .    .    T !      .T   .! T
+T   .      .  . .   > .   !    .      !             T   . . . ! !     !.       .   !  !       !      
+TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT TTTTTTTTTT TTTTTT TTTTTTTTTTTTTTTTT TT TTTT TT TTTT TTTTT TTTTTTTTT

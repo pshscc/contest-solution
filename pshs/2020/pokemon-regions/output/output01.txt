@@ -1,0 +1,47 @@
+Kanto:
+002 Ivysaur
+003 Venusaur
+010 Caterpie
+011 Metapod
+012 Butterfree
+018 Pidgeot
+036 Clefable
+042 Golbat
+048 Venonat
+062 Poliwrath
+072 Tentacool
+126 Magmar
+Johto:
+170 Chinchou
+172 Pichu
+194 Wooper
+234 Stantler
+245 Suicune
+249 Lugia
+Hoenn:
+252 Treecko
+254 Sceptile
+258 Mudkip
+267 Beautifly
+269 Dustox
+278 Wingull
+280 Ralts
+288 Vigoroth
+304 Aron
+315 Roselia
+324 Torkoal
+331 Cacnea
+336 Seviper
+343 Baltoy
+347 Anorith
+377 Regirock
+378 Regice
+379 Registeel
+Sinnoh:
+387 Turtwig
+392 Infernape
+397 Staravia
+413 Wormadam
+454 Toxicroak
+471 Glaceon
+483 Dialga

@@ -1,0 +1,14 @@
+2
+6 6
+TT TTT
+T.^  T
+T!.  T
+T.v#.T
+T  ! T
+TT TTT
+5 7
+TT TTTT
+TT. !. 
+T!!T^TT
+T .#  T
+TTTTTTT

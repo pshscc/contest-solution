@@ -1,0 +1,139 @@
+1
+TTT
+T#o
+ToT
+1
+ToT
+!#o
+ToT
+5
+T oTTTTT
+T^o<o. T
+ !^!#> T
+T .<! .T
+TTTTTTTT
+10
+TTToTTTTTTTT TTT
+T  o T   T     T
+TTTo T TTT  TTTT
+T ToTT T TT  T T
+T TooooT  T    T
+ooTTTToo#oT TTTT
+ToooooooTooooo T
+TTToTTT T TTToTT
+T ooT   T  Too T
+TToTTTTTTTTToTTT
+6
+TTTTTTTTT
+To<o<o<#T
+Tv v v.vT
+To>o> <.T
+oo<ov  vT
+Tv ^.^v T
+T > >. .T
+TTT TTTTT
+9
+T         o        T
+          o         
+          o         
+          o         
+          o         
+          o         
+          o         
+          o         
+          o         
+          #ooooooooo
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+T                  T
+9
+T         o        T
+          o         
+          o         
+          o         
+          o         
+          o         
+          o         
+          o         
+          o         
+ooooooooo<#ooooooooo
+          v         
+          o         
+          o         
+          o         
+          o         
+          o         
+          o         
+          o         
+          o         
+T         o        T
+11
+T                  T
+                    
+                    
+                    
+                    
+                    
+                    
+          !         
+          !         
+ooooooooo<#ooooooooo
+          v         
+          !         
+          !         
+                    
+                    
+                    
+                    
+                    
+                    
+T                  T
+10
+T                  T
+                    
+                    
+                    
+                    
+                    
+          ^         
+          !         
+          !         
+        !<#!        
+          v         
+          ooo       
+          o>o>o>o>oo
+          v         
+          o         
+          v         
+          o         
+          v         
+          o         
+T         o        T
+11
+T         o o      T
+          o o       
+          o o       
+ < < < < <o o       
+          oTo       
+o<o<o<o<o<ooo       
+      o o ^^        
+      o o !o        
+ooooooo o !^        
+     To<o<#ooooooooo
+ooooooo   v         
+          !T        
+          !> > > >! 
+          v         
+          !         
+          v         
+          !         
+          v         
+                    
+T                  T

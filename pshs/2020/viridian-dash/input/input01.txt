@@ -1,0 +1,140 @@
+10
+3 3
+TTT
+T# 
+T T
+3 3
+T T
+!# 
+T T
+5 8
+T  TTTTT
+T^.<!. T
+ !^!#> T
+T .<! .T
+TTTTTTTT
+10 16
+TTT TTTTTTTT TTT
+T    T   T     T
+TTT  T TTT  TTTT
+T T TT T TT  T T
+T T    T  T    T
+  TTTT  # T TTTT
+T       T      T
+TTT TTT T TTT TT
+T   T   T  T   T
+TT TTTTTTTTT TTT
+8 9
+TTTTTTTTT
+T <.<.<#T
+Tv v v.vT
+T.>.> <.T
+ .< v  vT
+Tv ^.^v T
+T > >. .T
+TTT TTTTT
+20 20
+T                  T
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+          #         
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+T                  T
+20 20
+T                  T
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+         <#         
+          v         
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+T                  T
+20 20
+T                  T
+                    
+                    
+                    
+                    
+                    
+                    
+          !         
+          !         
+        !<#!        
+          v         
+          !         
+          !         
+                    
+                    
+                    
+                    
+                    
+                    
+T                  T
+20 20
+T                  T
+                    
+                    
+                    
+                    
+                    
+          ^         
+          !         
+          !         
+        !<#!        
+          v         
+          !         
+          !> > > >  
+          v         
+                    
+          v         
+                    
+          v         
+                    
+T                  T
+20 20
+T                  T
+                    
+                    
+ < < < < <          
+           T        
+ < < < < <          
+          ^^        
+          !         
+          !^        
+     T <!<#!        
+          v         
+          !T        
+          !> > > >! 
+          v         
+          !         
+          v         
+          !         
+          v         
+                    
+T                  T

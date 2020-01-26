@@ -1,0 +1,39 @@
+Kanto:
+009 Blastoise
+012 Butterfree
+024 Arbok
+025 Pikachu
+035 Clefairy
+091 Cloyster
+095 Onix
+109 Koffing
+131 Lapras
+135 Jolteon
+Johto:
+181 Ampharos
+188 Skiploom
+194 Wooper
+224 Octillery
+Hoenn:
+254 Sceptile
+261 Poochyena
+264 Linoone
+284 Masquerain
+298 Azurill
+318 Carvanha
+345 Lileep
+354 Banette
+361 Snorunt
+364 Sealeo
+Sinnoh:
+405 Luxray
+415 Combee
+426 Drifblim
+432 Purugly
+434 Stunky
+435 Skuntank
+437 Bronzong
+441 Chatot
+453 Croagunk
+465 Tangrowth
+492 Shaymin
