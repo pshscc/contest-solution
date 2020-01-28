@@ -14,19 +14,19 @@ public class Solution1 {
     private static int[] dx = { -1, 1, 0, 0 }, dy = { 0, 0, -1, 1 };
 
     public static void main(String[] args) throws Exception {
-        BufferedReader sc = new BufferedReader(new InputStreamReader(System.in));
-        PrintWriter out = new PrintWriter(new BufferedWriter(new OutputStreamWriter(System.out)));
-        int T = Integer.parseInt(sc.readLine());
+        Scanner sc = new Scanner(System.in);
+        StringBuilder ans = new StringBuilder();
+        int T = sc.nextInt();
         while (T-- > 0) {
-            String[] token = sc.readLine().split(" ");
-            int R = Integer.parseInt(token[0]);
-            int C = Integer.parseInt(token[1]);
+            int R = sc.nextInt();
+            int C = sc.nextInt();
+            sc.nextLine();
             map = new char[R][C];
             times = new int[R][C];
             HashSet<Point>[][] connect = new HashSet[R][C];
             int startR = 0, startC = 0;
             for (int r = 0; r < R; r++) {
-                map[r] = sc.readLine().toCharArray();
+                map[r] = sc.nextLine().toCharArray();
                 for (int c = 0; c < C; c++) {
                     times[r][c] = Integer.MAX_VALUE;
                     connect[r][c] = new HashSet<>();
@@ -101,7 +101,6 @@ public class Solution1 {
                     }
                 }
             }
-            out.println(minTime);
             while (!shortest.isEmpty()) {
                 Point cur = shortest.pollFirst();
                 Queue<Point> p = new LinkedList<>();
@@ -117,13 +116,14 @@ public class Solution1 {
                 }
             }
             map[startR][startC] = '#';
+            ans.append(minTime).append('\n');
             for (char[] r : map) {
                 for (char c : r)
-                    out.print(c);
-                out.println();
+                    ans.append(c);
+                ans.append('\n');
             }
         }
-        out.close();
+        System.out.print(ans);
     }
 
     private static class Point implements Comparable<Point> {
