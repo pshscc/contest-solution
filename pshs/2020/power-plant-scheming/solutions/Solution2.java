@@ -12,17 +12,15 @@ public class Solution2 {
     private static boolean[][] visited;
 
     public static void main(String args[]) throws Exception {
-        BufferedReader in = new BufferedReader(new InputStreamReader(System.in));
-        PrintWriter out = new PrintWriter(new BufferedWriter(new OutputStreamWriter(System.out)));
-        StringTokenizer st = new StringTokenizer(in.readLine());
-
-        int r = Integer.parseInt(st.nextToken());
-        int c = Integer.parseInt(st.nextToken());
+        Scanner in = new Scanner(System.in);
+        int r = in.nextInt();
+        int c = in.nextInt();
         grid = new char[r][c];
         visited = new boolean[r][c];
-
+        
+        in.nextLine();
         for (int i = 0; i < r; i++) {
-            String line = in.readLine();
+            String line = in.nextLine();
             for (int j = 0; j < c; j++) {
                 grid[i][j] = line.charAt(j);
             }
@@ -35,8 +33,7 @@ public class Solution2 {
                     max = Math.max(floodfill(i, j), max);
             }
         }
-        out.println(max);
-        out.close();
+        System.out.println(max);
     }
 
     private static int floodfill(int r, int c) {
