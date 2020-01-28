@@ -7,13 +7,12 @@ import java.io.*;
 import java.util.*;
 
 public class Solution2 {
-
     private static int n, q;
     private static HashMap<String, Integer> index;
 
     private static ArrayList<ArrayList<Integer>> nodes;
     private static ArrayList<Integer> euler;
-    private static int[] depth, first, seg;
+    private static int[] depth, first, segtree; // segment tree
 
     public static void main(String[] args) throws Exception {
         Scanner sc = new Scanner(System.in);
@@ -27,13 +26,12 @@ public class Solution2 {
         index = new HashMap<>();
         nodes = new ArrayList<>();
         euler = new ArrayList<>();
-        nodes.add(new ArrayList<>());
-        nodes.add(new ArrayList<>());
+        for (int x = 0; x <= n; x++)
+            nodes.add(new ArrayList<>());
 
         String[][] connections = new String[n - 1][2];
         Set<String> names = new HashSet<>();
         for (int x = 0; x < n - 1; x++) {
-            nodes.add(new ArrayList<>());
             String l1 = sc.next();
             String l2 = sc.next();
             sc.next();
@@ -52,7 +50,7 @@ public class Solution2 {
             nodes.get(b).add(a);
         }
         dfs(1, 0);
-        seg = new int[euler.size() << 2];
+        segtree = new int[euler.size() << 2];
         build(1, 0, euler.size() - 1);
         while (q-- > 0) {
             String A = sc.next();
@@ -81,14 +79,14 @@ public class Solution2 {
 
     private static void build(int node, int l, int r) {
         if (l == r) {
-            seg[node] = euler.get(l);
+            segtree[node] = euler.get(l);
         } else {
             int m = (l + r) / 2;
             build(node * 2, l, m);
             build(node * 2 + 1, m + 1, r);
-            int left = seg[node * 2];
-            int right = seg[node * 2 + 1];
-            seg[node] = depth[left] < depth[right] ? left : right;
+            int left = segtree[node * 2];
+            int right = segtree[node * 2 + 1];
+            segtree[node] = depth[left] < depth[right] ? left : right;
         }
     }
 
@@ -96,7 +94,7 @@ public class Solution2 {
         if (l > R || r < L)
             return -1;
         if (l >= L && r <= R)
-            return seg[node];
+            return segtree[node];
         int m = (l + r) / 2;
         int left = query(node * 2, l, m, L, R);
         int right = query(node * 2 + 1, m + 1, r, L, R);

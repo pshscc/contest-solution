@@ -34,8 +34,7 @@ public class Solution3 {
             int index = binSearch(ash, s);
             int aCount = 0;
             if (ash[index].startsWith(s)) {
-                aCount = 1;
-                x = index + 1;
+                x = index;
                 while (x < ash.length && ash[x++].startsWith((s)))
                     aCount++;
                 x = index - 1;
@@ -45,8 +44,7 @@ public class Solution3 {
             index = binSearch(brock, s);
             int bCount = 0;
             if (brock[index].startsWith(s)) {
-                bCount = 1;
-                x = index + 1;
+                x = index;
                 while (x < brock.length && brock[x++].startsWith((s)))
                     bCount++;
                 x = index - 1;

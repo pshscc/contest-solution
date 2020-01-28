@@ -10,7 +10,6 @@ public class Solution2 {
     public static void main(String[] args) throws Exception {
         BufferedReader in = new BufferedReader(new InputStreamReader(System.in));
         PrintWriter out = new PrintWriter(new BufferedWriter(new OutputStreamWriter(System.out)));
-
         int t = Integer.parseInt(in.readLine());
         while (t-- > 0) {
             StringTokenizer st = new StringTokenizer(in.readLine());
@@ -39,7 +38,6 @@ public class Solution2 {
             pq.add(new Position(sR, sC, 0));
             int[] dr = { -1, 0, 0, 1 };
             int[] dc = { 0, -1, 1, 0 };
-
             while (!pq.isEmpty()) {
                 Position u = pq.poll();
                 if (u.r == 0 || u.c == 0 || u.r == r - 1 || u.c == c - 1) {

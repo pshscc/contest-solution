@@ -33,7 +33,7 @@ public class Solution3 {
                 }
             }
             long wins = dp[leftover][x][y];
-            long total = 1L << leftover;
+            long total = 1L << leftover; // pow(2, leftover)
             double percent = wins * 100d / total;
             if (percent > w)
                 System.out.println("Free health potions for all!");

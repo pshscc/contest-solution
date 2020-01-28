@@ -12,8 +12,7 @@ public class Solution1 {
 
     private static ArrayList<ArrayList<Integer>> nodes;
     private static int[] depth;
-    private static int[][] p;
-    // sparse matrix
+    private static int[][] p; // sparse matrix
 
     public static void main(String[] args) throws Exception {
         Scanner sc = new Scanner(System.in);

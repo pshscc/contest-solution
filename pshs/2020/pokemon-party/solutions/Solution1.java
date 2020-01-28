@@ -14,8 +14,8 @@ public class Solution1 {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
         ArrayList<Integer> distributions = new ArrayList<>();
-        for (int x = 0; x < n; x++)
-            distributions.add(x + 1);
+        for (int x = 1; x <= n; x++)
+            distributions.add(x);
         permutations = new ArrayList<>();
         permute(distributions, 0);
         ArrayList<Integer> init = new ArrayList<>(n);
@@ -25,19 +25,19 @@ public class Solution1 {
         System.out.println(count);
     }
 
-    private static void recursion(ArrayList<Integer> arr, int games) {
-        if (games == 0) {
+    private static void recursion(ArrayList<Integer> s, int l) {
+        if (l == 0) {
             int max = 0;
-            for (int x = 0; x < arr.size(); x++)
-                max = Math.max(max, arr.get(x));
-            if (arr.get(0) == max)
+            for (int x : s)
+                max = Math.max(max, x);
+            if (s.get(0) == max) // pikachu is index 0
                 count++;
         } else {
-            for (ArrayList<Integer> placement : permutations) {
-                ArrayList<Integer> poke = new ArrayList<>(arr);
-                for (int x = 0; x < placement.size(); x++)
-                    poke.set(x, poke.get(x) + placement.get(x));
-                recursion(poke, games - 1);
+            for (ArrayList<Integer> distribution : permutations) {
+                ArrayList<Integer> state = new ArrayList<>(s);
+                for (int x = 0; x < distribution.size(); x++)
+                    state.set(x, state.get(x) + distribution.get(x));
+                recursion(state, l - 1);
             }
         }
     }

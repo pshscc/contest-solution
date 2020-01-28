@@ -21,6 +21,7 @@ public class Solution2 {
         int lower = n + 1;
         int upper = (int) 1e6;
         int ans = 0;
+        // binary search
         while (lower < upper) {
             int mid = (lower + upper) / 2;
             int add = mid - n;

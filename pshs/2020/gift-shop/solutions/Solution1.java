@@ -10,34 +10,21 @@ public class Solution1 {
     public static void main(String[] args) throws Exception {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
-        ArrayList<String> max = new ArrayList<>();
-        ArrayList<String> min = new ArrayList<>();
-        double maxPrice = -1;
-        double minPrice = 1e10;
-        while (n-- > 0) {
-            String name = sc.next();
-            double price = sc.nextDouble();
-            int quantity = sc.nextInt();
-            double cost = price * quantity;
-            if (cost >= maxPrice) {
-                if (cost > maxPrice) {
-                    maxPrice = cost;
-                    max.clear();
-                }
-                max.add(name);
-            }
-            if (cost <= minPrice) {
-                if (cost < minPrice) {
-                    minPrice = cost;
-                    min.clear();
-                }
-                min.add(name);
-            }
+        String[] name = new String[n];
+        double[] cost = new double[n];
+        double min = 1e10, max = -1;
+        for (int x = 0; x < n; x++) {
+            name[x] = sc.next();
+            cost[x] = sc.nextDouble() * sc.nextInt();
+            max = Math.max(max, cost[x]);
+            min = Math.min(min, cost[x]);
         }
-        for (String s : max)
-            System.out.print(s + " ");
+        for (int x = 0; x < n; x++)
+            if (cost[x] == max)
+                System.out.print(name[x] + " ");
         System.out.println();
-        for (String s : min)
-            System.out.print(s + " ");
+        for (int x = 0; x < n; x++)
+            if (cost[x] == min)
+                System.out.print(name[x] + " ");
     }
 }

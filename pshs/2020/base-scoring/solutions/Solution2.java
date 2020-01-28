@@ -1,43 +1,29 @@
 
 /**
- * @author Jonothan Tung
+ * @author JB Ladera
  */
 
-import java.io.*;
-import java.util.*;
+import java.util.Scanner;
 
 public class Solution2 {
-    public static void main(String[] args) {
-        Scanner in = new Scanner(System.in);
-        int N = in.nextInt();
+    public static void main(String[] args) throws Exception {
+        Scanner sc = new Scanner(System.in);
+        int n = sc.nextInt();
         int max = -1;
         int winner = 0;
-        for (int i = 0; i < N; i++) {
-            int score = digitSum(toOctal(in.nextInt())) + digitSum(toOctal(in.nextInt()))
-                    + digitSum(toOctal(in.nextInt()));
-            if (score > max) {
-                max = score;
-                winner = i + 1;
+        for (int x = 0; x < n; x++) {
+            int sum = 0;
+            for (int i = 0; i < 3; i++) {
+                int num = sc.nextInt();
+                String octal = Integer.toOctalString(num);
+                for (int j = 0; j < octal.length(); j++)
+                    sum += Integer.parseInt(octal.substring(j, j + 1));
+            }
+            if (sum > max) {
+                max = sum;
+                winner = x;
             }
         }
-        System.out.println(winner);
-    }
-
-    public static int toOctal(int d) {
-        String answer = "";
-        do {
-            answer = d % 8 + answer;
-            d /= 8;
-        } while (d > 0);
-        return Integer.parseInt(answer);
-    }
-
-    public static int digitSum(int x) {
-        int answer = 0;
-        while (x > 0) {
-            answer += x % 10;
-            x /= 10;
-        }
-        return answer;
+        System.out.println(winner + 1);
     }
 }

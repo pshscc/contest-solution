@@ -1,46 +1,35 @@
 
 /**
- * @author JB Ladera
+ * @author Team A_PESH_BSOD
  */
 
-import java.util.Scanner;
-import java.util.TreeSet;
+import java.io.*;
+import java.util.*;
 
-@SuppressWarnings("unchecked")
 public class Solution3 {
-    public static void main(String[] args) throws Exception {
-        Scanner sc = new Scanner(System.in);
-        int N = sc.nextInt();
-        int K = sc.nextInt();
-        TreeSet<Poke>[] stats = new TreeSet[6];
-        for (int x = 0; x < stats.length; x++)
-            stats[x] = new TreeSet<>();
-        for (int x = 0; x < N; x++) {
-            String name = sc.next();
-            for (int i = 0; i < stats.length; i++) {
-                long stat = sc.nextLong();
-                stats[i].add(new Poke(name, stat));
+    public static void main(String[] args) {
+        Scanner in = new Scanner(System.in);
+        int mons = in.nextInt();
+        int kill = in.nextInt();
+        ArrayList<TreeMap<Long, String>> stats = new ArrayList<>();
+        for (int i = 0; i < 6; i++) {
+            stats.add(new TreeMap<>());
+        }
+        for (int i = 0; i < mons; i++) {
+            String name = in.next();
+            for (int j = 0; j < 6; j++) {
+                stats.get(j).put(in.nextLong(), name);
             }
         }
-        TreeSet<String> names = new TreeSet<>();
-        for (int x = 0; x < stats.length; x++)
-            for (int i = 0; i < K; i++)
-                names.add(stats[x].pollFirst().name);
-        for (String name : names)
-            System.out.println(name);
-    }
-
-    private static class Poke implements Comparable<Poke> {
-        String name;
-        long stat;
-
-        public Poke(String name, long stat) {
-            this.name = name;
-            this.stat = stat;
+        TreeSet<String> toKill = new TreeSet<>();
+        for (int i = 0; i < 6; i++) {
+            TreeMap<Long, String> curmap = stats.get(i);
+            for (int j = 0; j < kill; j++) {
+                toKill.add(curmap.pollFirstEntry().getValue());
+            }
         }
-
-        public int compareTo(Poke o) {
-            return Long.compare(stat, o.stat);
+        for (String i : toKill) {
+            System.out.println(i);
         }
     }
 }

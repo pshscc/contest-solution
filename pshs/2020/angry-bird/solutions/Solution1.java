@@ -1,25 +1,31 @@
 
 /**
- * @author Jonothan Tung
+ * @author Shakeel Samsudeen
  */
 
 import java.io.*;
 import java.util.*;
 
 public class Solution1 {
-    public static void main(String[] args) {
-        Scanner in = new Scanner(System.in);
-        int N = in.nextInt();
-        for (int i = 0; i < N; i++) {
-            double h = in.nextInt();
-            double k = in.nextInt();
-            double x = in.nextInt();
-            double m = in.nextInt();
-            double theta = Math.toRadians(in.nextInt());
-            double d = in.nextInt();
+    public static void main(String[] args) throws Exception {
+        BufferedReader in = new BufferedReader(new InputStreamReader(System.in));
+        PrintWriter out = new PrintWriter(new BufferedWriter(new OutputStreamWriter(System.out)));
+        int n = Integer.parseInt(in.readLine());
+        while (n-- > 0) {
+            StringTokenizer st = new StringTokenizer(in.readLine());
+            double h = Double.parseDouble(st.nextToken());
+            double k = Double.parseDouble(st.nextToken());
+            double x = Double.parseDouble(st.nextToken());
+            double m = Double.parseDouble(st.nextToken());
+            double theta = Double.parseDouble(st.nextToken());
+            double d = Double.parseDouble(st.nextToken());
             double v = Math.sqrt((k * x * x) / m);
-            double t = (v * Math.sin(theta) + Math.sqrt(Math.pow(v * Math.sin(theta), 2) + 19.6 * h)) / 9.8;
-            System.out.printf("%.2f%n", Math.abs(d - v * Math.cos(theta) * t));
+            double t1 = (v * Math.sin(Math.toRadians(theta))) / 9.8;
+            double y = v * Math.sin(Math.toRadians(theta)) * t1 + 0.5 * -9.8 * t1 * t1;
+            double t2 = Math.sqrt(2 * (h + y) / 9.8);
+            double dist = v * Math.cos(Math.toRadians(theta)) * (t1 + t2);
+            out.println(String.format("%.2f", Math.abs(dist - d)));
         }
+        out.close();
     }
 }

@@ -13,22 +13,19 @@ public class Solution1 {
         StringTokenizer st = new StringTokenizer(in.readLine());
         int n = Integer.parseInt(st.nextToken());
         int p = Integer.parseInt(st.nextToken());
-        ArrayList<Integer> scores = new ArrayList<Integer>();
+        double total = 0;
+        int amount = n;
         st = new StringTokenizer(in.readLine());
         for (int i = 0; i < n; i++)
-            scores.add(Integer.parseInt(st.nextToken()));
+            total += Integer.parseInt(st.nextToken());
         if (p == 100)
             out.println("impossible");
         else {
-            double total = 0;
-            for (int i = 0; i < scores.size(); i++) {
-                total += scores.get(i);
-            }
             int add = 0;
-            while (total / scores.size() < p) {
+            while (total / amount < p) {
                 total += 100;
-                scores.add(100);
                 add++;
+                amount++;
             }
             out.println(add);
         }
