@@ -35,7 +35,7 @@ public class Solution1 {
                 int m = n - x - y;
                 double a = 0;
                 for (int i = n / 2 + 1 - x; i <= m; i++) {
-                    a += (double) choose(m, i) / Math.pow(2, m);
+                    a += dp[m][i] / Math.pow(2, m);
                 }
                 if (a > w) {
                     out.println("Free health potions for all!");
