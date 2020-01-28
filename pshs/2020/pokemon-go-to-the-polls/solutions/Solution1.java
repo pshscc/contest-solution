@@ -27,15 +27,15 @@ public class Solution1 {
             int y = Integer.parseInt(st.nextToken());
             double w = 0.01 * Integer.parseInt(st.nextToken());
 
-            if (x > n / 2) {
-                out.println("Free health potions for all!");
-            } else if (y >= (n + 1) / 2) {
+            if (y >= (n + 1) / 2) {
                 out.println("Free berries are alright...");
+            } else if (x >= (n + 1) / 2) {
+                out.println("Free health potions for all!");
             } else {
                 int m = n - x - y;
                 double a = 0;
                 for (int i = n / 2 + 1 - x; i <= m; i++) {
-                    a += dp[m][i] / Math.pow(2, m);
+                    a += (double) choose(m, i) / Math.pow(2, m);
                 }
                 if (a > w) {
                     out.println("Free health potions for all!");

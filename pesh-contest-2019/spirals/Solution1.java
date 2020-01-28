@@ -22,7 +22,7 @@ public class Solution1 {
 
         spiraling: {
             while(true) {
-                //northeast
+                //northeast //
                 for(int i = 0; i<d; i++) {
                     x++;
                     y++;
@@ -30,7 +30,7 @@ public class Solution1 {
                         break spiraling;
                     arr[x][y] = '*';
                 }
-                //east
+                //east //
                 for(int i = 0; i<E; i++) {
                     x++;
                     if(x<0 || x>=n || y<0 || y>=n)
