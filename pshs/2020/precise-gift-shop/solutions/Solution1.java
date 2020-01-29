@@ -15,7 +15,7 @@ public class Solution1 {
         int min = (int) 1e5, max = -1;
         for (int x = 0; x < n; x++) {
             name[x] = sc.next();
-            cost[x] = Math.round(sc.nextDouble() * 100) * sc.nextInt();
+            cost[x] = (int) Math.round(sc.nextDouble() * 100) * sc.nextInt();
             max = Math.max(max, cost[x]);
             min = Math.min(min, cost[x]);
         }
