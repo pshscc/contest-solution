@@ -1,20 +1,15 @@
-
-/**
- * @author Jonothan Tung
- */
-
 import java.io.*;
 import java.util.*;
 
-public class Solution1 {
-    private static int[] tree;
-    private static double[] rx;
-    private static double[] ry;
-    private static double[] w;
-    private static double[] h;
-    private static double[] cx;
-    private static double[] cy;
-    private static double[] r;
+public class aWildPidgeyHasAppeared {
+    public static int[] tree;
+    public static double[] rx;
+    public static double[] ry;
+    public static double[] w;
+    public static double[] h;
+    public static double[] cx;
+    public static double[] cy;
+    public static double[] r;
 
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
@@ -34,16 +29,29 @@ public class Solution1 {
         }
         // reads in all of the rectangles
         for (int i = 0; i < N; i++) {
-            rx[i] = in.nextDouble();
-            ry[i] = in.nextDouble();
-            w[i] = in.nextDouble();
-            h[i] = in.nextDouble();
+            // ignores rectangles that do not intersect with the field
+            double rxTemp = in.nextDouble();
+            double ryTemp = in.nextDouble();
+            double wTemp = in.nextDouble();
+            double hTemp = in.nextDouble();
+            if (rectangleCollision(rxTemp, ryTemp, wTemp, hTemp, 0, 0, 1000, 1000)) {
+                rx[i] = rxTemp;
+                ry[i] = ryTemp;
+                w[i] = wTemp;
+                h[i] = hTemp;
+            }
         }
         // reads in all of the circles
         for (int i = 0; i < M; i++) {
-            cx[i] = in.nextDouble();
-            cy[i] = in.nextDouble();
-            r[i] = in.nextDouble();
+            // ignores circles that do not intersect with the field
+            double cxTemp = in.nextDouble();
+            double cyTemp = in.nextDouble();
+            double rTemp = in.nextDouble();
+            if (circleToRectangleCollision(0, 0, 1000, 1000, cxTemp, cyTemp, rTemp)) {
+                cx[i] = cxTemp;
+                cy[i] = cyTemp;
+                r[i] = rTemp;
+            }
         }
         // make rectangle connections
         for (int i = 0; i < N; i++) {

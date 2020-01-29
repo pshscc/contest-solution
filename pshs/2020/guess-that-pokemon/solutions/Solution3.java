@@ -1,79 +1,70 @@
 
 /**
- * @author Team A_PWSH_Piada, modified by JB Ladera
+ * @author JB Ladera
  */
 
 import java.io.*;
 import java.util.*;
 
 public class Solution3 {
-    public static void main(String[] args) throws IOException {
-        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        String[] input = br.readLine().split(" ");
-        int n = Integer.parseInt(input[0]);
-        int a = Integer.parseInt(input[1]);
-        int b = Integer.parseInt(input[2]);
+    public static void main(String[] args) throws Exception {
+        Scanner sc = new Scanner(System.in);
         HashSet<String> set = new HashSet<>();
-        for (String s : br.readLine().split(" "))
-            set.add(s);
-        String[] ash = new String[set.size()];
-        int x = 0;
-        for (String s : set)
-            ash[x++] = s;
+        int n = sc.nextInt();
+        int a = sc.nextInt();
+        int b = sc.nextInt();
+        while (a-- > 0)
+            set.add(sc.next());
+        String[] ash = set.toArray(new String[set.size()]);
         set.clear();
-        for (String s : br.readLine().split(" "))
-            set.add(s);
-        String[] brock = new String[set.size()];
-        x = 0;
-        for (String s : set)
-            brock[x++] = s;
+        while (b-- > 0)
+            set.add(sc.next());
+        String[] brock = set.toArray(new String[set.size()]);
         Arrays.sort(ash);
         Arrays.sort(brock);
-        for (int i = 0; i < n; i++) {
-            String s = br.readLine();
-            int index = binSearch(ash, s);
+        while (n-- > 0) {
+            String p = sc.next();
+            int index = binarySearch(ash, p);
             int aCount = 0;
-            if (ash[index].startsWith(s)) {
-                x = index;
-                while (x < ash.length && ash[x++].startsWith((s)))
+            if (index != -1) {
+                int q = index;
+                while (q < ash.length && ash[q++].startsWith((p)))
                     aCount++;
-                x = index - 1;
-                while (x >= 0 && ash[x--].startsWith(s))
+                q = index - 1;
+                while (q >= 0 && ash[q--].startsWith(p))
                     aCount++;
             }
-            index = binSearch(brock, s);
+            index = binarySearch(brock, p);
             int bCount = 0;
-            if (brock[index].startsWith(s)) {
-                x = index;
-                while (x < brock.length && brock[x++].startsWith((s)))
+            if (index != -1) {
+                int q = index;
+                while (q < brock.length && brock[q++].startsWith((p)))
                     bCount++;
-                x = index - 1;
-                while (x >= 0 && brock[x--].startsWith(s))
+                q = index - 1;
+                while (q >= 0 && brock[q--].startsWith(p))
                     bCount++;
             }
-            if (aCount < bCount) {
+            if (aCount < bCount)
                 System.out.println("Brock");
-            } else if (bCount < aCount) {
+            else if (aCount > bCount)
                 System.out.println("Ash");
-            } else {
+            else
                 System.out.println("neither");
-            }
         }
     }
 
-    private static int binSearch(String[] arr, String s) {
-        int low = 0;
-        int high = arr.length - 1;
-        while (low < high) {
-            int mid = (low + high) / 2;
-            if (arr[mid].startsWith(s)) {
-                return mid;
-            } else if (arr[mid].compareTo(s) < 0) {
-                low = mid + 1;
-            } else {
-                high = mid;
-            }
+    private static int binarySearch(String[] arr, String s) {
+        int lo = 0;
+        int hi = arr.length - 1;
+        while (lo <= hi) {
+            int m = (lo + hi) / 2;
+            if (arr[m].startsWith(s))
+                return m;
+            if (arr[m].compareTo(s) < 0)
+                lo = m + 1;
+            else
+                hi = m - 1;
         }
-        return low;
+        return -1;
     }
 }

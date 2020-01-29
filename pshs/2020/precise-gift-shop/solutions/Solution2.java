@@ -6,7 +6,7 @@
 import java.io.*;
 import java.util.*;
 
-public class Solution1 {
+public class Solution2 {
     public static void main(String[] args) throws Exception {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
@@ -15,7 +15,8 @@ public class Solution1 {
         double min = 1e10, max = -1;
         for (int x = 0; x < n; x++) {
             name[x] = sc.next();
-            cost[x] = Math.round(sc.nextDouble() * sc.nextInt());
+            String[] p = sc.next().split("\\.");
+            cost[x] = Integer.parseInt(p[0] + p[1]) * sc.nextInt();
             max = Math.max(max, cost[x]);
             min = Math.min(min, cost[x]);
         }
