@@ -1,5 +1,6 @@
-/*
-Solved by JB Ladera
+
+/**
+ * @author JB Ladera
  */
 
 import java.util.*;
