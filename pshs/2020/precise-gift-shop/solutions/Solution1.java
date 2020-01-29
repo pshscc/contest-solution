@@ -11,11 +11,11 @@ public class Solution1 {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
         String[] name = new String[n];
-        double[] cost = new double[n];
-        double min = 1e10, max = -1;
+        int[] cost = new int[n];
+        int min = (int) 1e5, max = -1;
         for (int x = 0; x < n; x++) {
             name[x] = sc.next();
-            cost[x] = Math.round(sc.nextDouble() * sc.nextInt());
+            cost[x] = Math.round(sc.nextDouble() * 100) * sc.nextInt();
             max = Math.max(max, cost[x]);
             min = Math.min(min, cost[x]);
         }
