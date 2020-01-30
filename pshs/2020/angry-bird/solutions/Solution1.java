@@ -9,7 +9,7 @@ import java.util.*;
 public class Solution1 {
     public static void main(String[] args) throws Exception {
         Scanner in = new Scanner(System.in);
-        int n = Integer.parseInt(in.readLine());
+        int n = in.nextInt();
         while (n-- > 0) {
             double h = in.nextDouble();
             double k = in.nextDouble();

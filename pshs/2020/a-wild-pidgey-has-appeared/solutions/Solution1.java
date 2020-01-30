@@ -6,15 +6,15 @@
 import java.io.*;
 import java.util.*;
 
-public class aWildPidgeyHasAppeared {
-    public static int[] tree;
-    public static double[] rx;
-    public static double[] ry;
-    public static double[] w;
-    public static double[] h;
-    public static double[] cx;
-    public static double[] cy;
-    public static double[] r;
+public class Solution1 {
+    private static int[] tree;
+    private static double[] rx;
+    private static double[] ry;
+    private static double[] w;
+    private static double[] h;
+    private static double[] cx;
+    private static double[] cy;
+    private static double[] r;
 
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
