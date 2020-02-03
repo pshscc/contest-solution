@@ -9,7 +9,7 @@ import java.util.*;
 public class Solution3 {
     private static int MAX = 50;
     private static int n, x, y, w;
-    private static long[][][] dp = new long[MAX + 1][MAX + 2][MAX + 2];
+    private static long[][] dp = new long[MAX + 2][MAX + 2];
 
     public static void main(String[] args) throws Exception {
         Scanner sc = new Scanner(System.in);
@@ -19,20 +19,18 @@ public class Solution3 {
             x = sc.nextInt();
             y = sc.nextInt();
             w = sc.nextInt();
-            int leftover = n - x - y;
-            for (int left = 0; left <= leftover; left++) {
-                for (int a = x; a <= n; a++) {
-                    for (int b = y; b <= n; b++) {
-                        if (a + b > n)
-                            break;
-                        if (left == 0)
-                            dp[left][a][b] = a > n / 2 ? 1 : 0;
-                        else
-                            dp[left][a][b] = dp[left - 1][a + 1][b] + dp[left - 1][a][b + 1];
-                    }
+            for (int a = n; a >= x; a--) {
+                for (int b = n; b >= y; b--) {
+                    if (a + b > n)
+                        continue;
+                    if (a + b == n)
+                        dp[a][b] = a > n / 2 ? 1 : 0;
+                    else
+                        dp[a][b] = dp[a + 1][b] + dp[a][b + 1];
                 }
             }
-            long wins = dp[leftover][x][y];
+            int leftover = n - x - y;
+            long wins = dp[x][y];
             long total = 1L << leftover; // pow(2, leftover)
             double percent = wins * 100d / total;
             if (percent > w)
