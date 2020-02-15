@@ -18,7 +18,7 @@ public class Solution2 {
         while (n-- > 0) {
             int m = sc.nextInt();
             Integer[] arr = factors(m);
-            if (valid(0, m, arr))
+            if (valid(m, arr))
                 out.println("Semiperfect");
             else
                 out.println("NOT Semiperfect");
@@ -29,7 +29,7 @@ public class Solution2 {
     // alternatively there is a dynamic programming solution
     // for this type of problem, however, the test cases
     // weren't that strong so this was not needed.
-    static boolean valid(int x, int sum, Integer[] arr) {
+    static boolean valid(int sum, Integer[] arr) {
         boolean[][] dp = new boolean[arr.length + 1][sum + 1];
         for (int r = 0; r <= arr.length; r++)
             dp[r][0] = true;
