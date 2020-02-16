@@ -1,6 +1,6 @@
 
 /**
- * @author Jonothan Tung
+ * @author Jonathan Tung
  */
 
 import java.io.*;
