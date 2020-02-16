@@ -7,7 +7,7 @@ import java.io.*;
 import java.util.*;
 import java.math.*;
 
-public class align {
+public class Solution {
     static Scanner sc, in;
     static PrintWriter out;
 

@@ -2,7 +2,7 @@ import java.io.*;
 import java.util.*;
 import java.math.*;
 
-public class escape {
+public class Solution1 {
     static Scanner sc, in;
     static PrintWriter out;
 
