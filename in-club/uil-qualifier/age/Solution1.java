@@ -19,11 +19,9 @@ public class Solution1 {
         while (t-- > 0) {
             int a = sc.nextInt() - 1;
             int b = sc.nextInt() - a;
-            System.err.println("here: " + a + " " + b);
             int m = sc.nextInt();
             boolean found = false;
             for (int x = 1; x < 10000; x++, b++) {
-                System.err.println(x + " " + b);
                 if (x * m == b) {
                     out.println(x + " " + b);
                     found = true;
