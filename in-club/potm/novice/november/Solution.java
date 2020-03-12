@@ -1,5 +1,5 @@
 // Name: JB Ladera
-// Novice Problem of the Month 1
+// Novice Problem of the Month 2
 
 import java.util.*;
 
