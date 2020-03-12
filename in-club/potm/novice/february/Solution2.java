@@ -44,6 +44,8 @@ public class Solution2 {
         }
     }
 
+    // a class wasn't necessary to solve this problem, but sometimes
+    // makes the code a bit cleaner/easier to read
     static class Segment implements Comparable<Segment> {
         int s, e, b; // start, end, beauty of segment
 
