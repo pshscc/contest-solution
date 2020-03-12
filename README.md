@@ -1,1 +1,0 @@
-This repository is where possible solutions for our contests will be.
